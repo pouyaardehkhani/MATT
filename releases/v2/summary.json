@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "seed": 20261016,
+  "scenarios": 32,
+  "groups": 3840,
+  "instances": 11520,
+  "counts": {
+    "cnf": 5760,
+    "wcnf": 5760
+  },
+  "groups_per_scenario": 120,
+  "max_nvars": 18,
+  "max_weight_sum": 2078,
+  "statuses": {
+    "SAT": 3840,
+    "UNSAT": 1920,
+    "OPTIMUM": 5760
+  },
+  "status_cost_or_model_count_changes": 3682,
+  "distinct_formulas_ignoring_clause_and_literal_order": 11520,
+  "splits": {
+    "train": 6912,
+    "dev": 2304,
+    "test": 2304
+  },
+  "claim": "Constructed adversarial hypotheses; baseline attack success has not been measured."
+}

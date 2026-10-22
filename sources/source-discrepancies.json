@@ -1,0 +1,14 @@
+[
+  {
+    "id": "public_hidden_optimum_max2sat/0004/original",
+    "original": "sources/originals/hidden-optimum-rb/frb10-6-5.wcnf",
+    "header_repair": {
+      "original_declared_clauses": 695,
+      "actual_clauses": 693,
+      "action": "correct count in normalized copy only"
+    },
+    "annotation_inconsistent": true,
+    "reference_optimum": 50,
+    "evidence": "group lower bound plus locally checked attaining witness"
+  }
+]

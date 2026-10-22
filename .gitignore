@@ -1,0 +1,16 @@
+# Formula files and large derived data: distributed as MATT-v3-data.zip (see README, "Getting the data")
+/instances/
+/views/
+/releases/v3-base-audit/manifest.jsonl
+
+# Earlier dataset, not part of v3
+/legacy_v1/
+
+# Third-party source downloads; re-fetch with tools/download_sources.py
+/sources/archives/
+/sources/originals/
+/sources/code/
+
+# Python caches
+__pycache__/
+*.pyc

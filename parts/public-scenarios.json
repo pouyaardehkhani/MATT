@@ -1,0 +1,162 @@
+[
+  {
+    "id": "public_maxsat_regressions",
+    "family": "wcnf",
+    "title": "Curated historical MaxSAT regression formulas",
+    "scenario": "A published minimized formula previously exposed a solver issue. The supplied metadata does not identify the precise root cause for every instance.",
+    "rationale": "Independent optimum checking can detect invalid cost or optimality claims on valid, nontrivial formulas. A historical issue is not a demonstrated failure of a current baseline.",
+    "intervention": "",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "origin": "historical_regression",
+    "tier": "historical",
+    "groups": 306,
+    "examples": 306
+  },
+  {
+    "id": "public_hidden_optimum_max2sat",
+    "family": "wcnf",
+    "title": "Published Model RB hidden-optimum formulas",
+    "scenario": "A hidden choice in each group avoids all heavy forbidden-pair penalties in a published Model RB instance.",
+    "rationale": "Larger constructed cores with stated optimum values broaden the size range; the maximized-satisfied objective is converted explicitly.",
+    "intervention": "",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "origin": "public_benchmark",
+    "tier": "external_reference",
+    "groups": 60,
+    "examples": 60
+  },
+  {
+    "id": "satlib_cbs_k3_n100_m403_b10",
+    "family": "cnf",
+    "title": "SATLIB CBS_k3_n100_m403_b10",
+    "scenario": "An established random or controlled-backbone CNF benchmark family from SATLIB.",
+    "rationale": "Adds nontrivial source cores for satisfiability/backbone evaluation; the source family name is preserved and full backbone labels are computed locally.",
+    "intervention": "",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "public_benchmark",
+    "tier": "application",
+    "groups": 120,
+    "examples": 120
+  },
+  {
+    "id": "satlib_cbs_k3_n100_m403_b90",
+    "family": "cnf",
+    "title": "SATLIB CBS_k3_n100_m403_b90",
+    "scenario": "An established random or controlled-backbone CNF benchmark family from SATLIB.",
+    "rationale": "Adds nontrivial source cores for satisfiability/backbone evaluation; the source family name is preserved and full backbone labels are computed locally.",
+    "intervention": "",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "public_benchmark",
+    "tier": "application",
+    "groups": 120,
+    "examples": 120
+  },
+  {
+    "id": "satlib_uf100-430",
+    "family": "cnf",
+    "title": "SATLIB uf100-430",
+    "scenario": "An established random or controlled-backbone CNF benchmark family from SATLIB.",
+    "rationale": "Adds nontrivial source cores for satisfiability/backbone evaluation; the source family name is preserved and full backbone labels are computed locally.",
+    "intervention": "",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "public_benchmark",
+    "tier": "application",
+    "groups": 120,
+    "examples": 120
+  },
+  {
+    "id": "satlib_uf50-218",
+    "family": "cnf",
+    "title": "SATLIB uf50-218",
+    "scenario": "An established random or controlled-backbone CNF benchmark family from SATLIB.",
+    "rationale": "Adds nontrivial source cores for satisfiability/backbone evaluation; the source family name is preserved and full backbone labels are computed locally.",
+    "intervention": "",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "public_benchmark",
+    "tier": "application",
+    "groups": 120,
+    "examples": 120
+  },
+  {
+    "id": "satlib_uuf100-430",
+    "family": "cnf",
+    "title": "SATLIB uuf100-430",
+    "scenario": "An established random or controlled-backbone CNF benchmark family from SATLIB.",
+    "rationale": "Adds nontrivial source cores for satisfiability/backbone evaluation; the source family name is preserved and full backbone labels are computed locally.",
+    "intervention": "",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "public_benchmark",
+    "tier": "application",
+    "groups": 120,
+    "examples": 120
+  },
+  {
+    "id": "satlib_uuf50-218",
+    "family": "cnf",
+    "title": "SATLIB uuf50-218",
+    "scenario": "An established random or controlled-backbone CNF benchmark family from SATLIB.",
+    "rationale": "Adds nontrivial source cores for satisfiability/backbone evaluation; the source family name is preserved and full backbone labels are computed locally.",
+    "intervention": "",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "public_benchmark",
+    "tier": "application",
+    "groups": 120,
+    "examples": 120
+  },
+  {
+    "id": "mse2026_application_selection",
+    "family": "wcnf",
+    "title": "Diverse MSE 2026 application instances",
+    "scenario": "A stratified selection of smaller formulas from weighted and unweighted MSE 2026 archives, covering distinct application families.",
+    "rationale": "Provides real optimization structure and larger scale. Competition reference optima and best-known bounds are retained separately.",
+    "intervention": "",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "origin": "public_benchmark",
+    "tier": "external_reference",
+    "groups": 134,
+    "examples": 134
+  },
+  {
+    "id": "satcompetition_archive_selection",
+    "family": "cnf",
+    "title": "SAT Competition archive originals, including 2026 selections",
+    "scenario": "Actual competition CNFs selected from the official 2002–2024 archive; matching GBD hashes identify those also selected in the 2026 main track.",
+    "rationale": "Adds established application and crafted structure at realistic sizes. Unknown status and missing backbone labels are explicit; the 2026 file endpoint timed out, so identical identities were retrieved from the official archive.",
+    "intervention": "",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "public_benchmark",
+    "tier": "external_reference",
+    "groups": 120,
+    "examples": 120
+  }
+]

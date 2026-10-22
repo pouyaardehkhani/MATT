@@ -1,0 +1,5 @@
+{
+  "cnfgen": "0.9.6",
+  "networkx": "3.7",
+  "pysat": "1.9.dev15"
+}

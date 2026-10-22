@@ -1,0 +1,285 @@
+[
+  {
+    "id": "scaled_collective_barrier",
+    "family": "wcnf",
+    "title": "Collective barriers from 50 to 5000 variables",
+    "scenario": "A connected weighted equality network has two uniform basins with different costs.",
+    "rationale": "Every nonuniform assignment pays a coupling larger than the entire unary objective. The only assignment better than the supplied trap differs in every core bit.",
+    "intervention": "Replace uncoupled preferences by strong connected couplings.",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "tier": "scaled",
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "entropic_selector_basin",
+    "family": "wcnf",
+    "title": "A rare optimum competes with exponentially many near optima",
+    "scenario": "A gate permits all trigger bits freely in the expensive branch but requires all of them in the cheap branch.",
+    "rationale": "The objective minimum is unchanged while the proportion of optimal feasible assignments becomes 1/(2^k+1).",
+    "intervention": "Add the multi-bit feasibility trigger.",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "tier": "scaled",
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "objective_asymmetric_symmetry",
+    "family": "wcnf",
+    "title": "Feasibility symmetry is not objective symmetry",
+    "scenario": "Exactly one option is selected from interchangeable hard-feasible choices.",
+    "rationale": "Unequal selection costs destroy objective symmetries despite preserving every hard-feasible exchange.",
+    "intervention": "Change uniform selection costs to distinct costs.",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "cardinality_projection_encoding",
+    "family": "cnf",
+    "title": "Different auxiliary encodings of the same choices",
+    "scenario": "An exactly-k selection constraint is encoded with sequential counters and a totalizer.",
+    "rationale": "Answers must agree after projection to primary variables; auxiliary backbones and extension multiplicities need not agree.",
+    "intervention": "Replace the complete auxiliary encoding; retain primary constraints and variable map.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "implied_constraint_amplification",
+    "family": "cnf",
+    "title": "Implied constraints reshape a correlated formula",
+    "scenario": "Two signed connected components contain one anchored orientation and one free orientation.",
+    "rationale": "Adding implied equalities changes occurrence counts and syntactic graph structure without changing any model.",
+    "intervention": "Add many transitive signed equalities.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "tier": "scaled",
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "soft_weight_partition",
+    "family": "wcnf",
+    "title": "Partitioning a clause weight preserves every assignment cost",
+    "scenario": "A weighted tree-cover objective is represented with one clause per preference.",
+    "rationale": "Replacing a weight by positive summands must preserve the objective pointwise.",
+    "intervention": "Split each positive weight into smaller copies.",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "objective_integer_scaling",
+    "family": "wcnf",
+    "title": "Exact integer objective scaling",
+    "scenario": "A weighted tree-cover instance has an optimum calculated by dynamic programming.",
+    "rationale": "Multiplying every soft weight by k must multiply its optimum by k and preserve optimal assignments.",
+    "intervention": "Scale every soft weight by a positive integer.",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "nonempty_constant_offset",
+    "family": "wcnf",
+    "title": "A provable constant objective offset",
+    "scenario": "A tree-cover problem gains a fresh soft contradictory pair with equal weights.",
+    "rationale": "Exactly one member of the nonempty fresh-variable pair is false, adding a constant for every feasible assignment.",
+    "intervention": "Add (z,a) and (NOT z,a) on a fresh variable.",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "general_graph_tseitin",
+    "family": "cnf",
+    "title": "Matched local statistics, different global parity",
+    "scenario": "Edge variables satisfy parity charges on a connected bridgeless regular graph.",
+    "rationale": "Flipping one vertex charge changes consistency while preserving the factor graph, clause widths, and literal counts per local parity constraint.",
+    "intervention": "Flip one vertex charge, keeping all other data fixed.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "cnfgen_pebbling",
+    "family": "cnf",
+    "title": "Propagation across reconvergent directed graphs",
+    "scenario": "A unique-sink DAG propagates source truth toward a forbidden sink.",
+    "rationale": "Many paths share consequences; the sink contradiction is global in the graph construction.",
+    "intervention": "Add the original generator's sink-false clause.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "external_generator",
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "cnfgen_stone",
+    "family": "cnf",
+    "title": "Stone-color propagation conflicts",
+    "scenario": "Stones on graph sources are red and inherit redness, while sink stones must be blue.",
+    "rationale": "The interaction of stone assignments and propagation adds a distinct structured obstruction.",
+    "intervention": "Vary the DAG, number of stones, and associated assignments.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "external_generator",
+    "groups": 120,
+    "examples": 120,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "cnfgen_subset_cardinality",
+    "family": "cnf",
+    "title": "Locally feasible cardinalities, globally impossible totals",
+    "scenario": "A 3-regular bipartite incidence graph requires at least two incident selected edges at each left vertex and at most one at each right vertex.",
+    "rationale": "Summing the left requirements exceeds the right capacity although each local constraint is satisfiable.",
+    "intervention": "Vary the bipartite graph while retaining the inconsistent total.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "external_generator",
+    "groups": 120,
+    "examples": 120,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "model_rb_hidden_optimum",
+    "family": "wcnf",
+    "title": "Generated Model RB hidden-optimum cores",
+    "scenario": "One planted choice per variable group avoids all forbidden pairs.",
+    "rationale": "Heavy pair penalties make every optimum respect at-most-one choices; the supplied planted assignment attains the lower bound.",
+    "intervention": "Add cross-group forbidden pairs that keep the planted optimum.",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "tier": "scaled",
+    "origin": "adapted_generator",
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "neural_sat_witness_perturbation",
+    "family": "cnf",
+    "title": "Witness-preserving SAT perturbations",
+    "scenario": "Random clauses are added until the next clause first destroys satisfiability; the satisfiable prefix is retained.",
+    "rationale": "Additional clauses satisfied by a known witness retain SAT while altering structural features.",
+    "intervention": "Add witness-compatible clauses.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "adapted_generator",
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "neural_unsat_literal_deletion",
+    "family": "cnf",
+    "title": "UNSAT survives strengthening by literal deletion",
+    "scenario": "A first-conflict random formula is UNSAT.",
+    "rationale": "Deleting literals from nonunit clauses strengthens the formula and therefore preserves UNSAT.",
+    "intervention": "Delete selected literals without creating empty clauses.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "adapted_generator",
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "neural_unsat_clause_addition",
+    "family": "cnf",
+    "title": "UNSAT survives added constraints",
+    "scenario": "A first-conflict random formula is UNSAT.",
+    "rationale": "Adding well-formed nonempty clauses preserves the UNSAT label while changing local statistics.",
+    "intervention": "Add extra random nonempty clauses.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "adapted_generator",
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "laminar_shared_repairs",
+    "family": "wcnf",
+    "title": "Nested repair demands share an ancestor choice",
+    "scenario": "Each leaf demand may be repaired by selecting any ancestor on its root-to-leaf path.",
+    "rationale": "A single ancestor repairs many nested demands; independent per-demand cost addition can be invalid.",
+    "intervention": "Change the cost of an internal shared repair.",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "tier": "scaled",
+    "groups": 120,
+    "examples": 240,
+    "distinct_core_groups": 120
+  },
+  {
+    "id": "cnfgen_pitfall",
+    "family": "cnf",
+    "title": "Pitfall formulas with checked signed edge mapping",
+    "scenario": "Pitfall formulas contain easy and hard parts plus a gadget directing common heuristics to the hard part.",
+    "rationale": "A structured heuristic-deception family broadens MATT beyond small planted motifs. The adapter corrects an upstream signed-offset error, documented with preserved originals.",
+    "intervention": "Independent seeds and graph/gadget parameters.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "adapted_generator",
+    "groups": 120,
+    "examples": 120,
+    "distinct_core_groups": 120
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "version": "3.0.0",
+  "date": "2026-10-16",
+  "scenarios": 62,
+  "groups": 7640,
+  "formula_records": 17360,
+  "unique_formula_bytes": 17104,
+  "duplicate_formula_records": 256,
+  "counts": {
+    "cnf": 8880,
+    "wcnf": 8480
+  },
+  "origins": {
+    "constructed_v2": 11520,
+    "constructed": 2400,
+    "external_generator": 480,
+    "adapted_generator": 1140,
+    "historical_regression": 306,
+    "public_benchmark": 1034,
+    "controlled_derivative": 480
+  },
+  "tiers": {
+    "exhaustive_core": 11520,
+    "scaled": 1260,
+    "extended": 2760,
+    "historical": 306,
+    "external_reference": 554,
+    "application": 960
+  },
+  "statuses": {
+    "SAT": 5545,
+    "UNSAT": 3287,
+    "OPTIMUM": 7903,
+    "OPTIMUM_REFERENCE": 341,
+    "FEASIBLE": 1,
+    "REFERENCE_ONLY": 235,
+    "UNKNOWN": 48
+  },
+  "nvars_min": 3,
+  "nvars_max": 321140,
+  "scaled_constructed_nvars_max": 5006,
+  "splits": {
+    "dev": 3482,
+    "train": 10373,
+    "test": 3505
+  },
+  "source_collections": [
+    {
+      "id": "public_maxsat_regressions",
+      "groups": 306,
+      "examples": 306
+    },
+    {
+      "id": "public_hidden_optimum_max2sat",
+      "groups": 120,
+      "examples": 120
+    },
+    {
+      "id": "satlib_cbs_k3_n100_m403_b10",
+      "groups": 120,
+      "examples": 120
+    },
+    {
+      "id": "satlib_cbs_k3_n100_m403_b90",
+      "groups": 120,
+      "examples": 120
+    },
+    {
+      "id": "satlib_uf100-430",
+      "groups": 120,
+      "examples": 120
+    },
+    {
+      "id": "satlib_uf50-218",
+      "groups": 120,
+      "examples": 120
+    },
+    {
+      "id": "satlib_uuf100-430",
+      "groups": 120,
+      "examples": 120
+    },
+    {
+      "id": "satlib_uuf50-218",
+      "groups": 120,
+      "examples": 120
+    },
+    {
+      "id": "mse2026_application_selection",
+      "groups": 134,
+      "examples": 134
+    },
+    {
+      "id": "satcompetition_archive_selection",
+      "groups": 120,
+      "examples": 120
+    }
+  ],
+  "constructed_scenarios": 52,
+  "physical_membership": "manifest paths only; legacy_v1 and sources archives are excluded",
+  "baseline_experiments_run": 0,
+  "completeness": "Expanded coverage release, not a guarantee against all possible inputs or methods."
+}

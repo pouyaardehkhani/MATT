@@ -1,0 +1,1542 @@
+[
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/71db7ec1e61d2d357518dc0317b47c9a.wcnf.xz",
+    "path": "sources/originals/mse2026/71db7ec1e61d2d357518dc0317b47c9a.wcnf.xz",
+    "metadata": {
+      "hash": "71db7ec1e61d2d357518dc0317b47c9a",
+      "family": "ramsey-numbers",
+      "best_known_cost": "4",
+      "optimal_cost": "4"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/534775ad5f8fa38e7e7516bef0d9344d.wcnf.xz",
+    "path": "sources/originals/mse2026/534775ad5f8fa38e7e7516bef0d9344d.wcnf.xz",
+    "metadata": {
+      "hash": "534775ad5f8fa38e7e7516bef0d9344d",
+      "family": "random-maxcut",
+      "best_known_cost": "156",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/f014fdbf722f4af76dd0b5af86d86bba.wcnf.xz",
+    "path": "sources/originals/mse2026/f014fdbf722f4af76dd0b5af86d86bba.wcnf.xz",
+    "metadata": {
+      "hash": "f014fdbf722f4af76dd0b5af86d86bba",
+      "family": "interpretable-rule-based-classifiers",
+      "best_known_cost": "46",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/de7964db25426a7a4c3229c6aad56b2e.wcnf.xz",
+    "path": "sources/originals/mse2026/de7964db25426a7a4c3229c6aad56b2e.wcnf.xz",
+    "metadata": {
+      "hash": "de7964db25426a7a4c3229c6aad56b2e",
+      "family": "lights-out",
+      "best_known_cost": "208",
+      "optimal_cost": "208"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/c33e1af392b096b94bf6184dc7119de0.wcnf.xz",
+    "path": "sources/originals/mse2026/c33e1af392b096b94bf6184dc7119de0.wcnf.xz",
+    "metadata": {
+      "hash": "c33e1af392b096b94bf6184dc7119de0",
+      "family": "role-based-access-control-user-authorization-query",
+      "best_known_cost": "145",
+      "optimal_cost": "145"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/9915020dda680405c1fb1124edf9e2bc.wcnf.xz",
+    "path": "sources/originals/mse2026/9915020dda680405c1fb1124edf9e2bc.wcnf.xz",
+    "metadata": {
+      "hash": "9915020dda680405c1fb1124edf9e2bc",
+      "family": "garden",
+      "best_known_cost": "2076",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/b4794d123e18a908924d3d33cdeeae3b.wcnf.xz",
+    "path": "sources/originals/mse2026/b4794d123e18a908924d3d33cdeeae3b.wcnf.xz",
+    "metadata": {
+      "hash": "b4794d123e18a908924d3d33cdeeae3b",
+      "family": "inconsistency-measurement",
+      "best_known_cost": "62",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/a949988fbd605b8c710eea70750638e2.wcnf.xz",
+    "path": "sources/originals/mse2026/a949988fbd605b8c710eea70750638e2.wcnf.xz",
+    "metadata": {
+      "hash": "a949988fbd605b8c710eea70750638e2",
+      "family": "steiner-triple-systems",
+      "best_known_cost": "198",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/c422714e58041f77d1a1b80bb6ec77d6.wcnf.xz",
+    "path": "sources/originals/mse2026/c422714e58041f77d1a1b80bb6ec77d6.wcnf.xz",
+    "metadata": {
+      "hash": "c422714e58041f77d1a1b80bb6ec77d6",
+      "family": "optimizing-bdds",
+      "best_known_cost": "11",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/3259c64e1c75e1e4b11e2c5f23b15906.wcnf.xz",
+    "path": "sources/originals/mse2026/3259c64e1c75e1e4b11e2c5f23b15906.wcnf.xz",
+    "metadata": {
+      "hash": "3259c64e1c75e1e4b11e2c5f23b15906",
+      "family": "minimizing-pentagons",
+      "best_known_cost": "77",
+      "optimal_cost": "77"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/763ab60027dbc7c8aa7a80d8e55bb7a8.wcnf.xz",
+    "path": "sources/originals/mse2026/763ab60027dbc7c8aa7a80d8e55bb7a8.wcnf.xz",
+    "metadata": {
+      "hash": "763ab60027dbc7c8aa7a80d8e55bb7a8",
+      "family": "judgment-aggregation",
+      "best_known_cost": "48",
+      "optimal_cost": "48"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/120300a787370542a9c2d6e08a91820f.wcnf.xz",
+    "path": "sources/originals/mse2026/120300a787370542a9c2d6e08a91820f.wcnf.xz",
+    "metadata": {
+      "hash": "120300a787370542a9c2d6e08a91820f",
+      "family": "approximately-propagation-complete",
+      "best_known_cost": "190",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/3691e4535a302dfe9ad1ea4697cd12f2.wcnf.xz",
+    "path": "sources/originals/mse2026/3691e4535a302dfe9ad1ea4697cd12f2.wcnf.xz",
+    "metadata": {
+      "hash": "3691e4535a302dfe9ad1ea4697cd12f2",
+      "family": "logistics-routing",
+      "best_known_cost": "92",
+      "optimal_cost": "92"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/1138c3481b5bea8d51cb8c29e9d9e271.wcnf.xz",
+    "path": "sources/originals/mse2026/1138c3481b5bea8d51cb8c29e9d9e271.wcnf.xz",
+    "metadata": {
+      "hash": "1138c3481b5bea8d51cb8c29e9d9e271",
+      "family": "scheduling",
+      "best_known_cost": "28",
+      "optimal_cost": "28"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/17650b602fa831b593b6ce240818722a.wcnf.xz",
+    "path": "sources/originals/mse2026/17650b602fa831b593b6ce240818722a.wcnf.xz",
+    "metadata": {
+      "hash": "17650b602fa831b593b6ce240818722a",
+      "family": "oblique-decision-trees",
+      "best_known_cost": "67",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/65dda321dcff4949a0ee405581a63867.wcnf.xz",
+    "path": "sources/originals/mse2026/65dda321dcff4949a0ee405581a63867.wcnf.xz",
+    "metadata": {
+      "hash": "65dda321dcff4949a0ee405581a63867",
+      "family": "single-machine-scheduling",
+      "best_known_cost": "74",
+      "optimal_cost": "74"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/51a56b1c8107453da4a79a4644c5b050.wcnf.xz",
+    "path": "sources/originals/mse2026/51a56b1c8107453da4a79a4644c5b050.wcnf.xz",
+    "metadata": {
+      "hash": "51a56b1c8107453da4a79a4644c5b050",
+      "family": "reversi",
+      "best_known_cost": "19",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/012afb3a2a741d212cdfe35609cc25d2.wcnf.xz",
+    "path": "sources/originals/mse2026/012afb3a2a741d212cdfe35609cc25d2.wcnf.xz",
+    "metadata": {
+      "hash": "012afb3a2a741d212cdfe35609cc25d2",
+      "family": "generalized-hypertree-width",
+      "best_known_cost": "6",
+      "optimal_cost": "6"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/dcdee872a1be29a2dfc0c720750d6280.wcnf.xz",
+    "path": "sources/originals/mse2026/dcdee872a1be29a2dfc0c720750d6280.wcnf.xz",
+    "metadata": {
+      "hash": "dcdee872a1be29a2dfc0c720750d6280",
+      "family": "railway-timetabling",
+      "best_known_cost": "6393",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/1b91445885ea8f7115f18c6a80bb4621.wcnf.xz",
+    "path": "sources/originals/mse2026/1b91445885ea8f7115f18c6a80bb4621.wcnf.xz",
+    "metadata": {
+      "hash": "1b91445885ea8f7115f18c6a80bb4621",
+      "family": "decision-trees",
+      "best_known_cost": "109",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/84bc55578b430c5e1c1803e0a2807bcc.wcnf.xz",
+    "path": "sources/originals/mse2026/84bc55578b430c5e1c1803e0a2807bcc.wcnf.xz",
+    "metadata": {
+      "hash": "84bc55578b430c5e1c1803e0a2807bcc",
+      "family": "asp-optimization",
+      "best_known_cost": "98",
+      "optimal_cost": "98"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/88a7c40956ba55b28f84471577bfc5a4.wcnf.xz",
+    "path": "sources/originals/mse2026/88a7c40956ba55b28f84471577bfc5a4.wcnf.xz",
+    "metadata": {
+      "hash": "88a7c40956ba55b28f84471577bfc5a4",
+      "family": "xai-mindset",
+      "best_known_cost": "267",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/5afd8afac94ccb448379fa185a615c4c.wcnf.xz",
+    "path": "sources/originals/mse2026/5afd8afac94ccb448379fa185a615c4c.wcnf.xz",
+    "metadata": {
+      "hash": "5afd8afac94ccb448379fa185a615c4c",
+      "family": "treewidth-computation",
+      "best_known_cost": "35",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/605c867700ec9853dcf2c33c0153543e.wcnf.xz",
+    "path": "sources/originals/mse2026/605c867700ec9853dcf2c33c0153543e.wcnf.xz",
+    "metadata": {
+      "hash": "605c867700ec9853dcf2c33c0153543e",
+      "family": "overcommitted-scheduling",
+      "best_known_cost": "364",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/3fc9af170b9d5adb0d35e99318434462.wcnf.xz",
+    "path": "sources/originals/mse2026/3fc9af170b9d5adb0d35e99318434462.wcnf.xz",
+    "metadata": {
+      "hash": "3fc9af170b9d5adb0d35e99318434462",
+      "family": "minimum-fill-in",
+      "best_known_cost": "935",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/02b954e56938c609faed7744eb907854.wcnf.xz",
+    "path": "sources/originals/mse2026/02b954e56938c609faed7744eb907854.wcnf.xz",
+    "metadata": {
+      "hash": "02b954e56938c609faed7744eb907854",
+      "family": "highschool-timetabling",
+      "best_known_cost": "4",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/bf04d9a41417b633a9f5ea465b398620.wcnf.xz",
+    "path": "sources/originals/mse2026/bf04d9a41417b633a9f5ea465b398620.wcnf.xz",
+    "metadata": {
+      "hash": "bf04d9a41417b633a9f5ea465b398620",
+      "family": "planning-hplus",
+      "best_known_cost": "19",
+      "optimal_cost": "19"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/ce0c8e73080b230c99bcb093fbc68252.wcnf.xz",
+    "path": "sources/originals/mse2026/ce0c8e73080b230c99bcb093fbc68252.wcnf.xz",
+    "metadata": {
+      "hash": "ce0c8e73080b230c99bcb093fbc68252",
+      "family": "atcoss",
+      "best_known_cost": "50",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/0daa3ef64a8653427d70c92d04c7e85d.wcnf.xz",
+    "path": "sources/originals/mse2026/0daa3ef64a8653427d70c92d04c7e85d.wcnf.xz",
+    "metadata": {
+      "hash": "0daa3ef64a8653427d70c92d04c7e85d",
+      "family": "aes",
+      "best_known_cost": "42",
+      "optimal_cost": "42"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/ec201844251db6241957ab04e34eb646.wcnf.xz",
+    "path": "sources/originals/mse2026/ec201844251db6241957ab04e34eb646.wcnf.xz",
+    "metadata": {
+      "hash": "ec201844251db6241957ab04e34eb646",
+      "family": "railway-transport",
+      "best_known_cost": "68",
+      "optimal_cost": "68"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/9df8d445ca8ad9442542c09166d0164b.wcnf.xz",
+    "path": "sources/originals/mse2026/9df8d445ca8ad9442542c09166d0164b.wcnf.xz",
+    "metadata": {
+      "hash": "9df8d445ca8ad9442542c09166d0164b",
+      "family": "ramsey-numbers",
+      "best_known_cost": "7",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/0a809976dc20be430529aef0713b6cf3.wcnf.xz",
+    "path": "sources/originals/mse2026/0a809976dc20be430529aef0713b6cf3.wcnf.xz",
+    "metadata": {
+      "hash": "0a809976dc20be430529aef0713b6cf3",
+      "family": "ramsey-numbers",
+      "best_known_cost": "10",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/e22d2f01951b990dd709c8f788aaad83.wcnf.xz",
+    "path": "sources/originals/mse2026/e22d2f01951b990dd709c8f788aaad83.wcnf.xz",
+    "metadata": {
+      "hash": "e22d2f01951b990dd709c8f788aaad83",
+      "family": "random-maxcut",
+      "best_known_cost": "272",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/2d1d2bee37b41a222185200004006cdc.wcnf.xz",
+    "path": "sources/originals/mse2026/2d1d2bee37b41a222185200004006cdc.wcnf.xz",
+    "metadata": {
+      "hash": "2d1d2bee37b41a222185200004006cdc",
+      "family": "random-maxcut",
+      "best_known_cost": "313",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/5b7d05d77ab7ad9521346264fc45d4fb.wcnf.xz",
+    "path": "sources/originals/mse2026/5b7d05d77ab7ad9521346264fc45d4fb.wcnf.xz",
+    "metadata": {
+      "hash": "5b7d05d77ab7ad9521346264fc45d4fb",
+      "family": "random-maxcut",
+      "best_known_cost": "318",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/3f0d3d2162d55631263f7eab917953de.wcnf.xz",
+    "path": "sources/originals/mse2026/3f0d3d2162d55631263f7eab917953de.wcnf.xz",
+    "metadata": {
+      "hash": "3f0d3d2162d55631263f7eab917953de",
+      "family": "random-maxcut",
+      "best_known_cost": "405",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/4684d9d7f02e785f74df95e42749c9df.wcnf.xz",
+    "path": "sources/originals/mse2026/4684d9d7f02e785f74df95e42749c9df.wcnf.xz",
+    "metadata": {
+      "hash": "4684d9d7f02e785f74df95e42749c9df",
+      "family": "ramsey-numbers",
+      "best_known_cost": "39",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/06dbf935ded3e22a0a6ecab934dd7e53.wcnf.xz",
+    "path": "sources/originals/mse2026/06dbf935ded3e22a0a6ecab934dd7e53.wcnf.xz",
+    "metadata": {
+      "hash": "06dbf935ded3e22a0a6ecab934dd7e53",
+      "family": "ramsey-numbers",
+      "best_known_cost": "24",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/4ec3c6ebf089414b45661256b618f537.wcnf.xz",
+    "path": "sources/originals/mse2026/4ec3c6ebf089414b45661256b618f537.wcnf.xz",
+    "metadata": {
+      "hash": "4ec3c6ebf089414b45661256b618f537",
+      "family": "role-based-access-control-user-authorization-query",
+      "best_known_cost": "11",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/4adad251321250a5ec6cb1a92a0dd0ed.wcnf.xz",
+    "path": "sources/originals/mse2026/4adad251321250a5ec6cb1a92a0dd0ed.wcnf.xz",
+    "metadata": {
+      "hash": "4adad251321250a5ec6cb1a92a0dd0ed",
+      "family": "inconsistency-measurement",
+      "best_known_cost": "44",
+      "optimal_cost": "44"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/43c1687705d10747da749c92ceb403b3.wcnf.xz",
+    "path": "sources/originals/mse2026/43c1687705d10747da749c92ceb403b3.wcnf.xz",
+    "metadata": {
+      "hash": "43c1687705d10747da749c92ceb403b3",
+      "family": "inconsistency-measurement",
+      "best_known_cost": "45",
+      "optimal_cost": "45"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/ca672b5848cdfc5bda0d6618e4b60f5a.wcnf.xz",
+    "path": "sources/originals/mse2026/ca672b5848cdfc5bda0d6618e4b60f5a.wcnf.xz",
+    "metadata": {
+      "hash": "ca672b5848cdfc5bda0d6618e4b60f5a",
+      "family": "inconsistency-measurement",
+      "best_known_cost": "55",
+      "optimal_cost": "55"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/400aa60b8e5c7ebc0b79b8e25eb68b54.wcnf.xz",
+    "path": "sources/originals/mse2026/400aa60b8e5c7ebc0b79b8e25eb68b54.wcnf.xz",
+    "metadata": {
+      "hash": "400aa60b8e5c7ebc0b79b8e25eb68b54",
+      "family": "inconsistency-measurement",
+      "best_known_cost": "56",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/ee0b9a4e8827535f9eb42b28518629c6.wcnf.xz",
+    "path": "sources/originals/mse2026/ee0b9a4e8827535f9eb42b28518629c6.wcnf.xz",
+    "metadata": {
+      "hash": "ee0b9a4e8827535f9eb42b28518629c6",
+      "family": "inconsistency-measurement",
+      "best_known_cost": "48",
+      "optimal_cost": "48"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/fa7e6a3895c51454ecbf95afa8c5ff94.wcnf.xz",
+    "path": "sources/originals/mse2026/fa7e6a3895c51454ecbf95afa8c5ff94.wcnf.xz",
+    "metadata": {
+      "hash": "fa7e6a3895c51454ecbf95afa8c5ff94",
+      "family": "steiner-triple-systems",
+      "best_known_cost": "336",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/8b7ebf46d61eb776617c3e936beaa052.wcnf.xz",
+    "path": "sources/originals/mse2026/8b7ebf46d61eb776617c3e936beaa052.wcnf.xz",
+    "metadata": {
+      "hash": "8b7ebf46d61eb776617c3e936beaa052",
+      "family": "judgment-aggregation",
+      "best_known_cost": "46",
+      "optimal_cost": "46"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/bcef465c8a0412e975a0fa7f15a81228.wcnf.xz",
+    "path": "sources/originals/mse2026/bcef465c8a0412e975a0fa7f15a81228.wcnf.xz",
+    "metadata": {
+      "hash": "bcef465c8a0412e975a0fa7f15a81228",
+      "family": "inconsistency-measurement",
+      "best_known_cost": "283",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/8d3c38ed46747150c3c02bce8218e3b4.wcnf.xz",
+    "path": "sources/originals/mse2026/8d3c38ed46747150c3c02bce8218e3b4.wcnf.xz",
+    "metadata": {
+      "hash": "8d3c38ed46747150c3c02bce8218e3b4",
+      "family": "steiner-triple-systems",
+      "best_known_cost": "617",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/399ab65c381322b07e3a427f749ad96d.wcnf.xz",
+    "path": "sources/originals/mse2026/399ab65c381322b07e3a427f749ad96d.wcnf.xz",
+    "metadata": {
+      "hash": "399ab65c381322b07e3a427f749ad96d",
+      "family": "logistics-routing",
+      "best_known_cost": "99",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/fb6087e197e4f1aaa99d5a5afb69c575.wcnf.xz",
+    "path": "sources/originals/mse2026/fb6087e197e4f1aaa99d5a5afb69c575.wcnf.xz",
+    "metadata": {
+      "hash": "fb6087e197e4f1aaa99d5a5afb69c575",
+      "family": "logistics-routing",
+      "best_known_cost": "98",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/60dee53cba5fb6aad260c1a5d6391334.wcnf.xz",
+    "path": "sources/originals/mse2026/60dee53cba5fb6aad260c1a5d6391334.wcnf.xz",
+    "metadata": {
+      "hash": "60dee53cba5fb6aad260c1a5d6391334",
+      "family": "logistics-routing",
+      "best_known_cost": "108",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/a0f00d71a8fea3f7276ff26dfc3e261e.wcnf.xz",
+    "path": "sources/originals/mse2026/a0f00d71a8fea3f7276ff26dfc3e261e.wcnf.xz",
+    "metadata": {
+      "hash": "a0f00d71a8fea3f7276ff26dfc3e261e",
+      "family": "single-machine-scheduling",
+      "best_known_cost": "75",
+      "optimal_cost": "75"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/bb65a80bd0db6b832fb26a2b6869477d.wcnf.xz",
+    "path": "sources/originals/mse2026/bb65a80bd0db6b832fb26a2b6869477d.wcnf.xz",
+    "metadata": {
+      "hash": "bb65a80bd0db6b832fb26a2b6869477d",
+      "family": "logistics-routing",
+      "best_known_cost": "117",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/5088bcc87aabb0ba3438ee2c0aa9ba83.wcnf.xz",
+    "path": "sources/originals/mse2026/5088bcc87aabb0ba3438ee2c0aa9ba83.wcnf.xz",
+    "metadata": {
+      "hash": "5088bcc87aabb0ba3438ee2c0aa9ba83",
+      "family": "judgment-aggregation",
+      "best_known_cost": "55",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/a2a50efc1491d914bd34f761f4376b07.wcnf.xz",
+    "path": "sources/originals/mse2026/a2a50efc1491d914bd34f761f4376b07.wcnf.xz",
+    "metadata": {
+      "hash": "a2a50efc1491d914bd34f761f4376b07",
+      "family": "single-machine-scheduling",
+      "best_known_cost": "73",
+      "optimal_cost": "73"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/9db7d991a994fb5b29656af778588e23.wcnf.xz",
+    "path": "sources/originals/mse2026/9db7d991a994fb5b29656af778588e23.wcnf.xz",
+    "metadata": {
+      "hash": "9db7d991a994fb5b29656af778588e23",
+      "family": "logistics-routing",
+      "best_known_cost": "126",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/3de63be254f99881b29fd121062ca098.wcnf.xz",
+    "path": "sources/originals/mse2026/3de63be254f99881b29fd121062ca098.wcnf.xz",
+    "metadata": {
+      "hash": "3de63be254f99881b29fd121062ca098",
+      "family": "oblique-decision-trees",
+      "best_known_cost": "160",
+      "optimal_cost": "160"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/8237deb50fe5a1511495686dfc407a8a.wcnf.xz",
+    "path": "sources/originals/mse2026/8237deb50fe5a1511495686dfc407a8a.wcnf.xz",
+    "metadata": {
+      "hash": "8237deb50fe5a1511495686dfc407a8a",
+      "family": "judgment-aggregation",
+      "best_known_cost": "54",
+      "optimal_cost": "54"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/8290f2194d63171fb4c77fa609e5fe36.wcnf.xz",
+    "path": "sources/originals/mse2026/8290f2194d63171fb4c77fa609e5fe36.wcnf.xz",
+    "metadata": {
+      "hash": "8290f2194d63171fb4c77fa609e5fe36",
+      "family": "single-machine-scheduling",
+      "best_known_cost": "75",
+      "optimal_cost": "75"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/a933fe92b3bfd0bef43497c93fe606ed.wcnf.xz",
+    "path": "sources/originals/mse2026/a933fe92b3bfd0bef43497c93fe606ed.wcnf.xz",
+    "metadata": {
+      "hash": "a933fe92b3bfd0bef43497c93fe606ed",
+      "family": "judgment-aggregation",
+      "best_known_cost": "56",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/4392dc7bd34797a63a40cc90f7adb969.wcnf.xz",
+    "path": "sources/originals/mse2026/4392dc7bd34797a63a40cc90f7adb969.wcnf.xz",
+    "metadata": {
+      "hash": "4392dc7bd34797a63a40cc90f7adb969",
+      "family": "judgment-aggregation",
+      "best_known_cost": "49",
+      "optimal_cost": "49"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/635fdaf2ec05b6d2b573abfd5e35c77a.wcnf.xz",
+    "path": "sources/originals/mse2026/635fdaf2ec05b6d2b573abfd5e35c77a.wcnf.xz",
+    "metadata": {
+      "hash": "635fdaf2ec05b6d2b573abfd5e35c77a",
+      "family": "judgment-aggregation",
+      "best_known_cost": "269",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/0643c3f6fdfd444bc3861085924ee65b.wcnf.xz",
+    "path": "sources/originals/mse2026/0643c3f6fdfd444bc3861085924ee65b.wcnf.xz",
+    "metadata": {
+      "hash": "0643c3f6fdfd444bc3861085924ee65b",
+      "family": "inconsistency-measurement",
+      "best_known_cost": "214",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/c5bccb71ab9c7ebff1a41c301af70534.wcnf.xz",
+    "path": "sources/originals/mse2026/c5bccb71ab9c7ebff1a41c301af70534.wcnf.xz",
+    "metadata": {
+      "hash": "c5bccb71ab9c7ebff1a41c301af70534",
+      "family": "logistics-routing",
+      "best_known_cost": "162",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/bf844b16264d91c15940f145bc2ff0dc.wcnf.xz",
+    "path": "sources/originals/mse2026/bf844b16264d91c15940f145bc2ff0dc.wcnf.xz",
+    "metadata": {
+      "hash": "bf844b16264d91c15940f145bc2ff0dc",
+      "family": "logistics-routing",
+      "best_known_cost": "168",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/89f7dc8a3180427955297ee486c1c9a3.wcnf.xz",
+    "path": "sources/originals/mse2026/89f7dc8a3180427955297ee486c1c9a3.wcnf.xz",
+    "metadata": {
+      "hash": "89f7dc8a3180427955297ee486c1c9a3",
+      "family": "railway-timetabling",
+      "best_known_cost": "9447",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/60cdddce0a640259c1a835f85052481b.wcnf.xz",
+    "path": "sources/originals/mse2026/60cdddce0a640259c1a835f85052481b.wcnf.xz",
+    "metadata": {
+      "hash": "60cdddce0a640259c1a835f85052481b",
+      "family": "inconsistency-measurement",
+      "best_known_cost": "359",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/aa44a88ca5584789be76abf1c591773b.wcnf.xz",
+    "path": "sources/originals/mse2026/aa44a88ca5584789be76abf1c591773b.wcnf.xz",
+    "metadata": {
+      "hash": "aa44a88ca5584789be76abf1c591773b",
+      "family": "decision-trees",
+      "best_known_cost": "29",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/97e8f080547ee6fcb9f04f8c4f181e82.wcnf.xz",
+    "path": "sources/originals/mse2026/97e8f080547ee6fcb9f04f8c4f181e82.wcnf.xz",
+    "metadata": {
+      "hash": "97e8f080547ee6fcb9f04f8c4f181e82",
+      "family": "reversi",
+      "best_known_cost": "11",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-unweighted.zip?download=1",
+    "archive_member": "unweighted-2026/2b94d00499c1d2a892ec1c37d4ade1e2.wcnf.xz",
+    "path": "sources/originals/mse2026/2b94d00499c1d2a892ec1c37d4ade1e2.wcnf.xz",
+    "metadata": {
+      "hash": "2b94d00499c1d2a892ec1c37d4ade1e2",
+      "family": "optimizing-bdds",
+      "best_known_cost": "27",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/fdb78a05186416897252a182942e3462.wcnf.xz",
+    "path": "sources/originals/mse2026/fdb78a05186416897252a182942e3462.wcnf.xz",
+    "metadata": {
+      "hash": "fdb78a05186416897252a182942e3462",
+      "family": "interpretable-rule-based-classifiers",
+      "best_known_cost": "1164",
+      "optimal_cost": "1164"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/3332f249f67f78ea332d79e914936ccd.wcnf.xz",
+    "path": "sources/originals/mse2026/3332f249f67f78ea332d79e914936ccd.wcnf.xz",
+    "metadata": {
+      "hash": "3332f249f67f78ea332d79e914936ccd",
+      "family": "pareto-optimal-interpretation-synthesis",
+      "best_known_cost": "336",
+      "optimal_cost": "336"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/4c44f623cb2171f56050db7b54f7daf0.wcnf.xz",
+    "path": "sources/originals/mse2026/4c44f623cb2171f56050db7b54f7daf0.wcnf.xz",
+    "metadata": {
+      "hash": "4c44f623cb2171f56050db7b54f7daf0",
+      "family": "asp-optimization",
+      "best_known_cost": "379",
+      "optimal_cost": "379"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/f9a2fe031a23abcd7bc206f06306ab0d.wcnf.xz",
+    "path": "sources/originals/mse2026/f9a2fe031a23abcd7bc206f06306ab0d.wcnf.xz",
+    "metadata": {
+      "hash": "f9a2fe031a23abcd7bc206f06306ab0d",
+      "family": "graph-coloring",
+      "best_known_cost": "2064",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/ad107e3a78ddd92eb6c92aa6e9720e62.wcnf.xz",
+    "path": "sources/originals/mse2026/ad107e3a78ddd92eb6c92aa6e9720e62.wcnf.xz",
+    "metadata": {
+      "hash": "ad107e3a78ddd92eb6c92aa6e9720e62",
+      "family": "team-composition",
+      "best_known_cost": "2958",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/e350018a587a4042068d66a62dce6c0b.wcnf.xz",
+    "path": "sources/originals/mse2026/e350018a587a4042068d66a62dce6c0b.wcnf.xz",
+    "metadata": {
+      "hash": "e350018a587a4042068d66a62dce6c0b",
+      "family": "logistics-routing",
+      "best_known_cost": "332",
+      "optimal_cost": "332"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/5d75c9c691357fe9ef835a8a1843127d.wcnf.xz",
+    "path": "sources/originals/mse2026/5d75c9c691357fe9ef835a8a1843127d.wcnf.xz",
+    "metadata": {
+      "hash": "5d75c9c691357fe9ef835a8a1843127d",
+      "family": "decision-trees",
+      "best_known_cost": "600",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/e2a8ac0364b27dc7e7795395377978c0.wcnf.xz",
+    "path": "sources/originals/mse2026/e2a8ac0364b27dc7e7795395377978c0.wcnf.xz",
+    "metadata": {
+      "hash": "e2a8ac0364b27dc7e7795395377978c0",
+      "family": "argumentation-framework-synthesis",
+      "best_known_cost": "132",
+      "optimal_cost": "132"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/155ee86fe12a895e51fc8c626019f492.wcnf.xz",
+    "path": "sources/originals/mse2026/155ee86fe12a895e51fc8c626019f492.wcnf.xz",
+    "metadata": {
+      "hash": "155ee86fe12a895e51fc8c626019f492",
+      "family": "inductive-logic-programming-minimum-description-length",
+      "best_known_cost": "220",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/91d8278936cbdcddeb77a55e9deb0b46.wcnf.xz",
+    "path": "sources/originals/mse2026/91d8278936cbdcddeb77a55e9deb0b46.wcnf.xz",
+    "metadata": {
+      "hash": "91d8278936cbdcddeb77a55e9deb0b46",
+      "family": "railway-timetabling",
+      "best_known_cost": "43213",
+      "optimal_cost": "43213"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/c4dbadd910a4226416c4b9219b481ac7.wcnf.xz",
+    "path": "sources/originals/mse2026/c4dbadd910a4226416c4b9219b481ac7.wcnf.xz",
+    "metadata": {
+      "hash": "c4dbadd910a4226416c4b9219b481ac7",
+      "family": "single-cell-dna-sequencing",
+      "best_known_cost": "127519365527924",
+      "optimal_cost": "127519365527924"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/32591818c6b32e1d2d4b72996dc57467.wcnf.xz",
+    "path": "sources/originals/mse2026/32591818c6b32e1d2d4b72996dc57467.wcnf.xz",
+    "metadata": {
+      "hash": "32591818c6b32e1d2d4b72996dc57467",
+      "family": "max-realizability-power-distribution-full",
+      "best_known_cost": "10",
+      "optimal_cost": "10"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/18210ee558608266daece1d1f86bd874.wcnf.xz",
+    "path": "sources/originals/mse2026/18210ee558608266daece1d1f86bd874.wcnf.xz",
+    "metadata": {
+      "hash": "18210ee558608266daece1d1f86bd874",
+      "family": "judgment-aggregation",
+      "best_known_cost": "631",
+      "optimal_cost": "631"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/38da17874408d58f540931f29769c280.wcnf.xz",
+    "path": "sources/originals/mse2026/38da17874408d58f540931f29769c280.wcnf.xz",
+    "metadata": {
+      "hash": "38da17874408d58f540931f29769c280",
+      "family": "max-realizability-robot-navigation",
+      "best_known_cost": "26",
+      "optimal_cost": "26"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/215178f50d488c9ffeb758a0dfada32e.wcnf.xz",
+    "path": "sources/originals/mse2026/215178f50d488c9ffeb758a0dfada32e.wcnf.xz",
+    "metadata": {
+      "hash": "215178f50d488c9ffeb758a0dfada32e",
+      "family": "two-echelon-vehicle-routing",
+      "best_known_cost": "2097627",
+      "optimal_cost": "2097627"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/33238a8b2e6a08d49f2a8bb41f215abc.wcnf.xz",
+    "path": "sources/originals/mse2026/33238a8b2e6a08d49f2a8bb41f215abc.wcnf.xz",
+    "metadata": {
+      "hash": "33238a8b2e6a08d49f2a8bb41f215abc",
+      "family": "traveling-salesman",
+      "best_known_cost": "79561",
+      "optimal_cost": "79561"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/02f0572a56d1a1364634aa0b6d337bc7.wcnf.xz",
+    "path": "sources/originals/mse2026/02f0572a56d1a1364634aa0b6d337bc7.wcnf.xz",
+    "metadata": {
+      "hash": "02f0572a56d1a1364634aa0b6d337bc7",
+      "family": "max-realizability-power-distribution-sparse",
+      "best_known_cost": "126",
+      "optimal_cost": "126"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/6257352adb0e5a42361cb8d035788573.wcnf.xz",
+    "path": "sources/originals/mse2026/6257352adb0e5a42361cb8d035788573.wcnf.xz",
+    "metadata": {
+      "hash": "6257352adb0e5a42361cb8d035788573",
+      "family": "parametric-role-based-access-control-maintenance",
+      "best_known_cost": "174980",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/9a2c7d1f80435742781ba15db8ff4cd8.wcnf.xz",
+    "path": "sources/originals/mse2026/9a2c7d1f80435742781ba15db8ff4cd8.wcnf.xz",
+    "metadata": {
+      "hash": "9a2c7d1f80435742781ba15db8ff4cd8",
+      "family": "capacitated-vehicle-routing",
+      "best_known_cost": "65959",
+      "optimal_cost": "65959"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/b0fa635dac36420e432714ab845bc52b.wcnf.xz",
+    "path": "sources/originals/mse2026/b0fa635dac36420e432714ab845bc52b.wcnf.xz",
+    "metadata": {
+      "hash": "b0fa635dac36420e432714ab845bc52b",
+      "family": "balanced-classification-rules",
+      "best_known_cost": "1049",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/aba43574fdcf5980731fc0f442a0d7a4.wcnf.xz",
+    "path": "sources/originals/mse2026/aba43574fdcf5980731fc0f442a0d7a4.wcnf.xz",
+    "metadata": {
+      "hash": "aba43574fdcf5980731fc0f442a0d7a4",
+      "family": "maximum-colorful-subtree",
+      "best_known_cost": "827",
+      "optimal_cost": "827"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/abf62faa242550b0447c775250aad0f6.wcnf.xz",
+    "path": "sources/originals/mse2026/abf62faa242550b0447c775250aad0f6.wcnf.xz",
+    "metadata": {
+      "hash": "abf62faa242550b0447c775250aad0f6",
+      "family": "planning-hplus",
+      "best_known_cost": "534",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/731c408aa6947d7339a92c03a03ae5f2.wcnf.xz",
+    "path": "sources/originals/mse2026/731c408aa6947d7339a92c03a03ae5f2.wcnf.xz",
+    "metadata": {
+      "hash": "731c408aa6947d7339a92c03a03ae5f2",
+      "family": "interpretable-rule-based-classifiers",
+      "best_known_cost": "23",
+      "optimal_cost": "23"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/cdc67b29ce153bdde38d6c2d80bb86d0.wcnf.xz",
+    "path": "sources/originals/mse2026/cdc67b29ce153bdde38d6c2d80bb86d0.wcnf.xz",
+    "metadata": {
+      "hash": "cdc67b29ce153bdde38d6c2d80bb86d0",
+      "family": "asp-optimization",
+      "best_known_cost": "346",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/fee781804297b78a6404a842cc9a0121.wcnf.xz",
+    "path": "sources/originals/mse2026/fee781804297b78a6404a842cc9a0121.wcnf.xz",
+    "metadata": {
+      "hash": "fee781804297b78a6404a842cc9a0121",
+      "family": "pareto-optimal-interpretation-synthesis",
+      "best_known_cost": "311",
+      "optimal_cost": "311"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/99e1bbd626eca9d267490f6052b5eed1.wcnf.xz",
+    "path": "sources/originals/mse2026/99e1bbd626eca9d267490f6052b5eed1.wcnf.xz",
+    "metadata": {
+      "hash": "99e1bbd626eca9d267490f6052b5eed1",
+      "family": "pareto-optimal-interpretation-synthesis",
+      "best_known_cost": "281",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/3a2177901399cbf3434f0c25ababa172.wcnf.xz",
+    "path": "sources/originals/mse2026/3a2177901399cbf3434f0c25ababa172.wcnf.xz",
+    "metadata": {
+      "hash": "3a2177901399cbf3434f0c25ababa172",
+      "family": "logistics-routing",
+      "best_known_cost": "388",
+      "optimal_cost": "388"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/35826dd37c9824605a714bd328d86293.wcnf.xz",
+    "path": "sources/originals/mse2026/35826dd37c9824605a714bd328d86293.wcnf.xz",
+    "metadata": {
+      "hash": "35826dd37c9824605a714bd328d86293",
+      "family": "logistics-routing",
+      "best_known_cost": "476",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/c11deabd046ea7b95c61e627ae15df10.wcnf.xz",
+    "path": "sources/originals/mse2026/c11deabd046ea7b95c61e627ae15df10.wcnf.xz",
+    "metadata": {
+      "hash": "c11deabd046ea7b95c61e627ae15df10",
+      "family": "logistics-routing",
+      "best_known_cost": "532",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/d3b60a3c33f22e7ed54dd4ce47158fcd.wcnf.xz",
+    "path": "sources/originals/mse2026/d3b60a3c33f22e7ed54dd4ce47158fcd.wcnf.xz",
+    "metadata": {
+      "hash": "d3b60a3c33f22e7ed54dd4ce47158fcd",
+      "family": "logistics-routing",
+      "best_known_cost": "564",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/1645126bc049f932c6a365aed4073e87.wcnf.xz",
+    "path": "sources/originals/mse2026/1645126bc049f932c6a365aed4073e87.wcnf.xz",
+    "metadata": {
+      "hash": "1645126bc049f932c6a365aed4073e87",
+      "family": "argumentation-framework-synthesis",
+      "best_known_cost": "115",
+      "optimal_cost": "115"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/b1f3bc82f34d8304967937fa42004233.wcnf.xz",
+    "path": "sources/originals/mse2026/b1f3bc82f34d8304967937fa42004233.wcnf.xz",
+    "metadata": {
+      "hash": "b1f3bc82f34d8304967937fa42004233",
+      "family": "logistics-routing",
+      "best_known_cost": "584",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/58953177cfd2a96c8790490da7549c9a.wcnf.xz",
+    "path": "sources/originals/mse2026/58953177cfd2a96c8790490da7549c9a.wcnf.xz",
+    "metadata": {
+      "hash": "58953177cfd2a96c8790490da7549c9a",
+      "family": "logistics-routing",
+      "best_known_cost": "600",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/b31bfe221251438552a8d98cf306728e.wcnf.xz",
+    "path": "sources/originals/mse2026/b31bfe221251438552a8d98cf306728e.wcnf.xz",
+    "metadata": {
+      "hash": "b31bfe221251438552a8d98cf306728e",
+      "family": "decision-trees",
+      "best_known_cost": "440",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/d8f5cdbc2e7d125910757a85590e0a3f.wcnf.xz",
+    "path": "sources/originals/mse2026/d8f5cdbc2e7d125910757a85590e0a3f.wcnf.xz",
+    "metadata": {
+      "hash": "d8f5cdbc2e7d125910757a85590e0a3f",
+      "family": "decision-trees",
+      "best_known_cost": "139",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/e399236e7e89be8871849b8024fbcbfd.wcnf.xz",
+    "path": "sources/originals/mse2026/e399236e7e89be8871849b8024fbcbfd.wcnf.xz",
+    "metadata": {
+      "hash": "e399236e7e89be8871849b8024fbcbfd",
+      "family": "logistics-routing",
+      "best_known_cost": "672",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/d63044df54ba70ede3011831ecf15fed.wcnf.xz",
+    "path": "sources/originals/mse2026/d63044df54ba70ede3011831ecf15fed.wcnf.xz",
+    "metadata": {
+      "hash": "d63044df54ba70ede3011831ecf15fed",
+      "family": "railway-timetabling",
+      "best_known_cost": "35439",
+      "optimal_cost": "35439"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/7f3a7133602947514b8147aa8359a417.wcnf.xz",
+    "path": "sources/originals/mse2026/7f3a7133602947514b8147aa8359a417.wcnf.xz",
+    "metadata": {
+      "hash": "7f3a7133602947514b8147aa8359a417",
+      "family": "decision-trees",
+      "best_known_cost": "468",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/0dfd8c57a5147caeb3e86f4cb15eff01.wcnf.xz",
+    "path": "sources/originals/mse2026/0dfd8c57a5147caeb3e86f4cb15eff01.wcnf.xz",
+    "metadata": {
+      "hash": "0dfd8c57a5147caeb3e86f4cb15eff01",
+      "family": "logistics-routing",
+      "best_known_cost": "764",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/bd1b7b6eb6683fac4979cb6254c19af5.wcnf.xz",
+    "path": "sources/originals/mse2026/bd1b7b6eb6683fac4979cb6254c19af5.wcnf.xz",
+    "metadata": {
+      "hash": "bd1b7b6eb6683fac4979cb6254c19af5",
+      "family": "argumentation-framework-synthesis",
+      "best_known_cost": "116",
+      "optimal_cost": "116"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/36e101370166df8968ab5eec69408e07.wcnf.xz",
+    "path": "sources/originals/mse2026/36e101370166df8968ab5eec69408e07.wcnf.xz",
+    "metadata": {
+      "hash": "36e101370166df8968ab5eec69408e07",
+      "family": "logistics-routing",
+      "best_known_cost": "780",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/7daeeec0608317ef82fe35d3a7f0a583.wcnf.xz",
+    "path": "sources/originals/mse2026/7daeeec0608317ef82fe35d3a7f0a583.wcnf.xz",
+    "metadata": {
+      "hash": "7daeeec0608317ef82fe35d3a7f0a583",
+      "family": "logistics-routing",
+      "best_known_cost": "792",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/a0deab950308e135c28f32276c99a31f.wcnf.xz",
+    "path": "sources/originals/mse2026/a0deab950308e135c28f32276c99a31f.wcnf.xz",
+    "metadata": {
+      "hash": "a0deab950308e135c28f32276c99a31f",
+      "family": "logistics-routing",
+      "best_known_cost": "836",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/b1d0245506ad3936f2ff33ac63280e07.wcnf.xz",
+    "path": "sources/originals/mse2026/b1d0245506ad3936f2ff33ac63280e07.wcnf.xz",
+    "metadata": {
+      "hash": "b1d0245506ad3936f2ff33ac63280e07",
+      "family": "railway-timetabling",
+      "best_known_cost": "82813",
+      "optimal_cost": "82813"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/b517e589ffd2928646b8ae7bb2f4ee2f.wcnf.xz",
+    "path": "sources/originals/mse2026/b517e589ffd2928646b8ae7bb2f4ee2f.wcnf.xz",
+    "metadata": {
+      "hash": "b517e589ffd2928646b8ae7bb2f4ee2f",
+      "family": "logistics-routing",
+      "best_known_cost": "900",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/ed4c9f14ea37d88497497be32d0b66d6.wcnf.xz",
+    "path": "sources/originals/mse2026/ed4c9f14ea37d88497497be32d0b66d6.wcnf.xz",
+    "metadata": {
+      "hash": "ed4c9f14ea37d88497497be32d0b66d6",
+      "family": "logistics-routing",
+      "best_known_cost": "912",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/392741dc96692fde974cb021000868b0.wcnf.xz",
+    "path": "sources/originals/mse2026/392741dc96692fde974cb021000868b0.wcnf.xz",
+    "metadata": {
+      "hash": "392741dc96692fde974cb021000868b0",
+      "family": "logistics-routing",
+      "best_known_cost": "928",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/5531e2e2402cce732380fc44558878d3.wcnf.xz",
+    "path": "sources/originals/mse2026/5531e2e2402cce732380fc44558878d3.wcnf.xz",
+    "metadata": {
+      "hash": "5531e2e2402cce732380fc44558878d3",
+      "family": "logistics-routing",
+      "best_known_cost": "940",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/b22a7099a4197d17a78bd6cef572efc2.wcnf.xz",
+    "path": "sources/originals/mse2026/b22a7099a4197d17a78bd6cef572efc2.wcnf.xz",
+    "metadata": {
+      "hash": "b22a7099a4197d17a78bd6cef572efc2",
+      "family": "pareto-optimal-interpretation-synthesis",
+      "best_known_cost": "147",
+      "optimal_cost": "147"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/f7f9da5cf24bc5e759e949c66703a71a.wcnf.xz",
+    "path": "sources/originals/mse2026/f7f9da5cf24bc5e759e949c66703a71a.wcnf.xz",
+    "metadata": {
+      "hash": "f7f9da5cf24bc5e759e949c66703a71a",
+      "family": "argumentation-framework-synthesis",
+      "best_known_cost": "114",
+      "optimal_cost": "114"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/e73ea7fce5b375026794e58ed67729ec.wcnf.xz",
+    "path": "sources/originals/mse2026/e73ea7fce5b375026794e58ed67729ec.wcnf.xz",
+    "metadata": {
+      "hash": "e73ea7fce5b375026794e58ed67729ec",
+      "family": "logistics-routing",
+      "best_known_cost": "932",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/e37916dfae1f1037c706d69f2c86497a.wcnf.xz",
+    "path": "sources/originals/mse2026/e37916dfae1f1037c706d69f2c86497a.wcnf.xz",
+    "metadata": {
+      "hash": "e37916dfae1f1037c706d69f2c86497a",
+      "family": "logistics-routing",
+      "best_known_cost": "960",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/3471182ada8ef00252163223650598d9.wcnf.xz",
+    "path": "sources/originals/mse2026/3471182ada8ef00252163223650598d9.wcnf.xz",
+    "metadata": {
+      "hash": "3471182ada8ef00252163223650598d9",
+      "family": "argumentation-framework-synthesis",
+      "best_known_cost": "117",
+      "optimal_cost": "117"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/d2bb5e6366eaada9b56081fcbe1f6b6f.wcnf.xz",
+    "path": "sources/originals/mse2026/d2bb5e6366eaada9b56081fcbe1f6b6f.wcnf.xz",
+    "metadata": {
+      "hash": "d2bb5e6366eaada9b56081fcbe1f6b6f",
+      "family": "logistics-routing",
+      "best_known_cost": "1008",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/c66b9812ee07f99fa4df342ac9564534.wcnf.xz",
+    "path": "sources/originals/mse2026/c66b9812ee07f99fa4df342ac9564534.wcnf.xz",
+    "metadata": {
+      "hash": "c66b9812ee07f99fa4df342ac9564534",
+      "family": "logistics-routing",
+      "best_known_cost": "1044",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/a2fc3cc5390406fea351583acc8a6a2a.wcnf.xz",
+    "path": "sources/originals/mse2026/a2fc3cc5390406fea351583acc8a6a2a.wcnf.xz",
+    "metadata": {
+      "hash": "a2fc3cc5390406fea351583acc8a6a2a",
+      "family": "inductive-logic-programming-minimum-description-length",
+      "best_known_cost": "178",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/d8a90ef15b80b3d1371ce04d198035bc.wcnf.xz",
+    "path": "sources/originals/mse2026/d8a90ef15b80b3d1371ce04d198035bc.wcnf.xz",
+    "metadata": {
+      "hash": "d8a90ef15b80b3d1371ce04d198035bc",
+      "family": "logistics-routing",
+      "best_known_cost": "1136",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/77431af2970a210ae4c17fb1141f1230.wcnf.xz",
+    "path": "sources/originals/mse2026/77431af2970a210ae4c17fb1141f1230.wcnf.xz",
+    "metadata": {
+      "hash": "77431af2970a210ae4c17fb1141f1230",
+      "family": "logistics-routing",
+      "best_known_cost": "1120",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/e29d11f16ec7a5c67ec50715dd29b168.wcnf.xz",
+    "path": "sources/originals/mse2026/e29d11f16ec7a5c67ec50715dd29b168.wcnf.xz",
+    "metadata": {
+      "hash": "e29d11f16ec7a5c67ec50715dd29b168",
+      "family": "inductive-logic-programming-minimum-description-length",
+      "best_known_cost": "146",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/525bb7b659d7ef92fb2012c3efa8e401.wcnf.xz",
+    "path": "sources/originals/mse2026/525bb7b659d7ef92fb2012c3efa8e401.wcnf.xz",
+    "metadata": {
+      "hash": "525bb7b659d7ef92fb2012c3efa8e401",
+      "family": "single-cell-dna-sequencing",
+      "best_known_cost": "247704136203892",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/fa9801a3e50d56c8b3e05b9e1ae772e9.wcnf.xz",
+    "path": "sources/originals/mse2026/fa9801a3e50d56c8b3e05b9e1ae772e9.wcnf.xz",
+    "metadata": {
+      "hash": "fa9801a3e50d56c8b3e05b9e1ae772e9",
+      "family": "logistics-routing",
+      "best_known_cost": "1216",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/4358208f95db785ad6ffde34ad252a5c.wcnf.xz",
+    "path": "sources/originals/mse2026/4358208f95db785ad6ffde34ad252a5c.wcnf.xz",
+    "metadata": {
+      "hash": "4358208f95db785ad6ffde34ad252a5c",
+      "family": "logistics-routing",
+      "best_known_cost": "1244",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/ae8b9d05d7e77b281b14077de8059e3d.wcnf.xz",
+    "path": "sources/originals/mse2026/ae8b9d05d7e77b281b14077de8059e3d.wcnf.xz",
+    "metadata": {
+      "hash": "ae8b9d05d7e77b281b14077de8059e3d",
+      "family": "single-cell-dna-sequencing",
+      "best_known_cost": "271716016106946",
+      "optimal_cost": "271716016106946"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/7daa3439212fb70eaa9756431c4517aa.wcnf.xz",
+    "path": "sources/originals/mse2026/7daa3439212fb70eaa9756431c4517aa.wcnf.xz",
+    "metadata": {
+      "hash": "7daa3439212fb70eaa9756431c4517aa",
+      "family": "pareto-optimal-interpretation-synthesis",
+      "best_known_cost": "121",
+      "optimal_cost": "unknown"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/9761214ee36a81a4916193e3e33fad08.wcnf.xz",
+    "path": "sources/originals/mse2026/9761214ee36a81a4916193e3e33fad08.wcnf.xz",
+    "metadata": {
+      "hash": "9761214ee36a81a4916193e3e33fad08",
+      "family": "two-echelon-vehicle-routing",
+      "best_known_cost": "2097611",
+      "optimal_cost": "2097611"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/8efe8fb5fa1e53f4b0c7074af61521ff.wcnf.xz",
+    "path": "sources/originals/mse2026/8efe8fb5fa1e53f4b0c7074af61521ff.wcnf.xz",
+    "metadata": {
+      "hash": "8efe8fb5fa1e53f4b0c7074af61521ff",
+      "family": "two-echelon-vehicle-routing",
+      "best_known_cost": "2097607",
+      "optimal_cost": "2097607"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/0604941704526f805ca57828d1361228.wcnf.xz",
+    "path": "sources/originals/mse2026/0604941704526f805ca57828d1361228.wcnf.xz",
+    "metadata": {
+      "hash": "0604941704526f805ca57828d1361228",
+      "family": "two-echelon-vehicle-routing",
+      "best_known_cost": "2097703",
+      "optimal_cost": "2097703"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/d25128e8cdb575b958d84f3e8082531f.wcnf.xz",
+    "path": "sources/originals/mse2026/d25128e8cdb575b958d84f3e8082531f.wcnf.xz",
+    "metadata": {
+      "hash": "d25128e8cdb575b958d84f3e8082531f",
+      "family": "two-echelon-vehicle-routing",
+      "best_known_cost": "2097643",
+      "optimal_cost": "2097643"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/98b3b51d1fb4c6872b52b23cf0d4c715.wcnf.xz",
+    "path": "sources/originals/mse2026/98b3b51d1fb4c6872b52b23cf0d4c715.wcnf.xz",
+    "metadata": {
+      "hash": "98b3b51d1fb4c6872b52b23cf0d4c715",
+      "family": "two-echelon-vehicle-routing",
+      "best_known_cost": "2097619",
+      "optimal_cost": "2097619"
+    }
+  },
+  {
+    "url": "https://zenodo.org/records/21358014/files/benchmarks-anytime-weighted.zip?download=1",
+    "archive_member": "weighted-2026/5fec1b5fdacfb65e547848fe28bf6fce.wcnf.xz",
+    "path": "sources/originals/mse2026/5fec1b5fdacfb65e547848fe28bf6fce.wcnf.xz",
+    "metadata": {
+      "hash": "5fec1b5fdacfb65e547848fe28bf6fce",
+      "family": "two-echelon-vehicle-routing",
+      "best_known_cost": "2097711",
+      "optimal_cost": "2097711"
+    }
+  }
+]

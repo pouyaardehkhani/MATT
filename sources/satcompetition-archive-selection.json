@@ -1,0 +1,1522 @@
+[
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "tri_ali_s11_c35_bail_UNS.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/tri_ali_s11_c35_bail_UNS.cnf.xz",
+    "gbd_hash": "b023ea0eb9adbd9182c01d7e2d443289",
+    "gbd": {
+      "hash": "b023ea0eb9adbd9182c01d7e2d443289",
+      "cells": [
+        "b023ea0eb9adbd9182c01d7e2d443289",
+        "e80f4e31dca38fe179f80052a7de05bd",
+        "cardinality-constraints",
+        "wynn",
+        "unsat",
+        "empty",
+        "no",
+        "e148f8577647a1bc",
+        "mp1-tri_ali_s11_c35_bail_UNS.cnf.xz",
+        "anni_2022,main_2017,main_2021,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "bsat201-707.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/bsat201-707.cnf.xz",
+    "gbd_hash": "5ee05ef0bcb42cb12bd698978c05178c",
+    "gbd": {
+      "hash": "5ee05ef0bcb42cb12bd698978c05178c",
+      "cells": [
+        "5ee05ef0bcb42cb12bd698978c05178c",
+        "6a06ad45b6adc3c0efda2a159488272e",
+        "sgen-balanced",
+        "spence",
+        "unsat",
+        "https://helda.helsinki.fi/bitstream/handle/10138/224324/sc2017-proceedings.pdf#page=53",
+        "no",
+        "8c166d0f42682ee2",
+        "mp1-bsat201-707.cnf.xz",
+        "main_2021,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "homer11.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/homer11.shuffled.cnf.xz",
+    "gbd_hash": "1890f49a43a94b97828528b68c32b78e",
+    "gbd": {
+      "hash": "1890f49a43a94b97828528b68c32b78e",
+      "cells": [
+        "1890f49a43a94b97828528b68c32b78e",
+        "9108c03884869c20344bca9cfeeb0784",
+        "fpga-routing",
+        "aloul",
+        "unsat",
+        "empty",
+        "no",
+        "53148e09ac9a22b5",
+        "homer11.shuffled.cnf.xz",
+        "anni_2022,industrial_2002,main_2025,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "clique_n2_k10.sanitized.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/clique_n2_k10.sanitized.cnf.xz",
+    "gbd_hash": "cb2e8b7fada420c5046f587ea754d052",
+    "gbd": {
+      "hash": "cb2e8b7fada420c5046f587ea754d052",
+      "cells": [
+        "cb2e8b7fada420c5046f587ea754d052",
+        "8230924e8ac3d44dd8ecbfdf126e7ea7",
+        "clique-formulas",
+        "oertel",
+        "unsat",
+        "http://hdl.handle.net/10138/584822",
+        "no",
+        "ace90e89155ba88b",
+        "clique_n2_k10.sanitized.cnf.xz",
+        "main_2024,main_2026,submissions_2024"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "mod2-rand3bip-sat-250-3.shuffled-as.sat05-2220.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/mod2-rand3bip-sat-250-3.shuffled-as.sat05-2220.cnf.xz",
+    "gbd_hash": "75429ff7acb5acb597abe01aa745c2a6",
+    "gbd": {
+      "hash": "75429ff7acb5acb597abe01aa745c2a6",
+      "cells": [
+        "75429ff7acb5acb597abe01aa745c2a6",
+        "1209d58d3deffe4a796788b0571ddce7",
+        "random-graph-xorsat",
+        "jarvisalo",
+        "sat",
+        "https://www.cs.helsinki.fi/u/mjarvisa/papers/hjkn.sat05benchmarks.pdf",
+        "no",
+        "e084fb10de0558a8",
+        "mod2-rand3bip-sat-250-3.shuffled-as.sat05-2220.cnf.xz",
+        "anni_2022,crafted_2005,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "os_fwalk_12.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/os_fwalk_12.cnf.xz",
+    "gbd_hash": "965ca988015c9aee5a1a7b2136c1fe5d",
+    "gbd": {
+      "hash": "965ca988015c9aee5a1a7b2136c1fe5d",
+      "cells": [
+        "965ca988015c9aee5a1a7b2136c1fe5d",
+        "0eb0b5c05472f1f65752375b79e40ab9",
+        "register-allocation",
+        "green",
+        "unsat",
+        "http://hdl.handle.net/10138/563824",
+        "no",
+        "453fa425e2b912b4",
+        "os_fwalk_12.cnf.xz",
+        "main_2023,main_2026,submissions_2023"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "170225812.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/170225812.cnf.xz",
+    "gbd_hash": "8117a2ac08e1acf52f660663efe2a5ca",
+    "gbd": {
+      "hash": "8117a2ac08e1acf52f660663efe2a5ca",
+      "cells": [
+        "8117a2ac08e1acf52f660663efe2a5ca",
+        "7f8b8eeb26095b7f790838711b64271c",
+        "hgen",
+        "guanfeng",
+        "sat",
+        "http://hdl.handle.net/10138/318754",
+        "no",
+        "ca5766ce380218bc",
+        "170225812.cnf.xz",
+        "main_2020,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "squ_ali_s10x10_c39_bail_SAT.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/squ_ali_s10x10_c39_bail_SAT.cnf.xz",
+    "gbd_hash": "b1c44904cf06682f973b60c8282f45e8",
+    "gbd": {
+      "hash": "b1c44904cf06682f973b60c8282f45e8",
+      "cells": [
+        "b1c44904cf06682f973b60c8282f45e8",
+        "64680f55198eb1665e489e7a724a2ce5",
+        "cardinality-constraints",
+        "wynn",
+        "sat",
+        "empty",
+        "no",
+        "45e6d40755d4ab80",
+        "mp1-squ_ali_s10x10_c39_bail_SAT.cnf.xz",
+        "anni_2022,main_2017,main_2022,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "squ_any_s09x07_c27_abix_UNS.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/squ_any_s09x07_c27_abix_UNS.cnf.xz",
+    "gbd_hash": "166e1e5a9f63fcf94ddae8533fa2a090",
+    "gbd": {
+      "hash": "166e1e5a9f63fcf94ddae8533fa2a090",
+      "cells": [
+        "166e1e5a9f63fcf94ddae8533fa2a090",
+        "79d9710ca788de0238cabb0a348e0c66",
+        "cardinality-constraints",
+        "wynn",
+        "unsat",
+        "empty",
+        "no",
+        "07fd74c85192de66",
+        "mp1-squ_any_s09x07_c27_abix_UNS.cnf.xz",
+        "anni_2022,main_2017,main_2021,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "homer18.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/homer18.shuffled.cnf.xz",
+    "gbd_hash": "3c4ac805726d78a869ff8116ee3533db",
+    "gbd": {
+      "hash": "3c4ac805726d78a869ff8116ee3533db",
+      "cells": [
+        "3c4ac805726d78a869ff8116ee3533db",
+        "b790871bcb0871ff8106309d2fa9c858",
+        "fpga-routing",
+        "aloul",
+        "unsat",
+        "empty",
+        "no",
+        "aeb2baa8d75ee179",
+        "homer18.shuffled.cnf.xz",
+        "anni_2022,industrial_2002,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "connm-ue-csp-sat-n600-d0.04-s1793042357.used-as.sat04-975.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/connm-ue-csp-sat-n600-d0.04-s1793042357.used-as.sat04-975.cnf.xz",
+    "gbd_hash": "d0b5d1dc96a5bf33d2c65106c3b179a8",
+    "gbd": {
+      "hash": "d0b5d1dc96a5bf33d2c65106c3b179a8",
+      "cells": [
+        "d0b5d1dc96a5bf33d2c65106c3b179a8",
+        "7db91b0f9d54477a7bac9a8d8d9f605d",
+        "generic-csp",
+        "connamacher",
+        "unsat",
+        "empty",
+        "no",
+        "09ee9de37b54b449",
+        "connm-ue-csp-sat-n600-d0.04-s1793042357.used-as.sat04-975.cnf.xz",
+        "anni_2022,handmade_2004,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "mdp-32-12-unsat.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/mdp-32-12-unsat.cnf.xz",
+    "gbd_hash": "425c81fc3af7f5124b6282583d80df11",
+    "gbd": {
+      "hash": "425c81fc3af7f5124b6282583d80df11",
+      "cells": [
+        "425c81fc3af7f5124b6282583d80df11",
+        "d3b6fdba7756186e23dcd18c77899e04",
+        "minimum-disagreement-parity",
+        "bryant",
+        "unsat",
+        "http://hdl.handle.net/10138/359079",
+        "no",
+        "b35e416cf809ff27",
+        "mdp-32-12-unsat.cnf.xz",
+        "main_2024,main_2026,submissions_2022"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "mdp-32-14-unsat.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/mdp-32-14-unsat.cnf.xz",
+    "gbd_hash": "23daec2c71ce3c1e346e6042f3dc42eb",
+    "gbd": {
+      "hash": "23daec2c71ce3c1e346e6042f3dc42eb",
+      "cells": [
+        "23daec2c71ce3c1e346e6042f3dc42eb",
+        "b68b3e649de688a06028424f7a1558ce",
+        "minimum-disagreement-parity",
+        "bryant",
+        "unsat",
+        "http://hdl.handle.net/10138/359079",
+        "no",
+        "255e953585c8ee56",
+        "mdp-32-14-unsat.cnf.xz",
+        "main_2024,main_2026,submissions_2022"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "mdp-32-11-sat.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/mdp-32-11-sat.cnf.xz",
+    "gbd_hash": "db15a85651e0d941a11bf8640625edd8",
+    "gbd": {
+      "hash": "db15a85651e0d941a11bf8640625edd8",
+      "cells": [
+        "db15a85651e0d941a11bf8640625edd8",
+        "8be327aec5fec9a1eefaff4b90b40fbc",
+        "minimum-disagreement-parity",
+        "bryant",
+        "sat",
+        "http://hdl.handle.net/10138/359079",
+        "no",
+        "9fb97b64030ed771",
+        "mdp-32-11-sat.cnf.xz",
+        "main_2024,main_2026,submissions_2022"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "two-trees-1023v.sanitized.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/two-trees-1023v.sanitized.cnf.xz",
+    "gbd_hash": "7db30d12cb06f0dc2f30abff80d96d6a",
+    "gbd": {
+      "hash": "7db30d12cb06f0dc2f30abff80d96d6a",
+      "cells": [
+        "7db30d12cb06f0dc2f30abff80d96d6a",
+        "e63edad418f8529781b05038a2728634",
+        "binary-tree-parity",
+        "pakin",
+        "sat",
+        "http://hdl.handle.net/10138/584822",
+        "no",
+        "07ada0346e6c153f",
+        "two-trees-1023v.sanitized.cnf.xz",
+        "main_2024,main_2026,submissions_2024"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "marijn-philips.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/marijn-philips.cnf.xz",
+    "gbd_hash": "62060247cd0ad566a828c30571c2c774",
+    "gbd": {
+      "hash": "62060247cd0ad566a828c30571c2c774",
+      "cells": [
+        "62060247cd0ad566a828c30571c2c774",
+        "00ea72f6ff8abf2e2ad17eb0daba12c5",
+        "philips",
+        "heule",
+        "unsat",
+        "empty",
+        "no",
+        "ff5e13286c4914c4",
+        "marijn-philips.cnf.xz",
+        "anni_2022,application_2012,main_2008,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "homer20.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/homer20.shuffled.cnf.xz",
+    "gbd_hash": "805a742eb8b4e0df3561ca8e0670670b",
+    "gbd": {
+      "hash": "805a742eb8b4e0df3561ca8e0670670b",
+      "cells": [
+        "805a742eb8b4e0df3561ca8e0670670b",
+        "8fe0e2540bdfc9d65eab2444e5e53944",
+        "fpga-routing",
+        "aloul",
+        "unsat",
+        "empty",
+        "no",
+        "7d064196067609ae",
+        "homer20.shuffled.cnf.xz",
+        "anni_2022,industrial_2002,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "mdp-36-10-unsat.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/mdp-36-10-unsat.cnf.xz",
+    "gbd_hash": "16ca57f2cdffd5b0260fc771017e1f04",
+    "gbd": {
+      "hash": "16ca57f2cdffd5b0260fc771017e1f04",
+      "cells": [
+        "16ca57f2cdffd5b0260fc771017e1f04",
+        "4d5387c5d6c4b839a238696c69800b08",
+        "minimum-disagreement-parity",
+        "bryant",
+        "unknown",
+        "http://hdl.handle.net/10138/359079",
+        "no",
+        "ffb09d7954c44efe",
+        "mdp-36-10-unsat.cnf.xz",
+        "main_2024,main_2026,submissions_2022"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "simon-r20-0.sanitized.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/simon-r20-0.sanitized.cnf.xz",
+    "gbd_hash": "2fcd8533eba981967292f1b6e41f7433",
+    "gbd": {
+      "hash": "2fcd8533eba981967292f1b6e41f7433",
+      "cells": [
+        "2fcd8533eba981967292f1b6e41f7433",
+        "688dc5a2bf6c490d99504775299fcdcb",
+        "cryptography-simon",
+        "yuhangqian",
+        "sat",
+        "http://hdl.handle.net/10138/584822",
+        "no",
+        "5aa75bcee5fb68cc",
+        "simon-r20-0.sanitized.cnf.xz",
+        "main_2024,main_2026,submissions_2024"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "simon-r22-1.sanitized.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/simon-r22-1.sanitized.cnf.xz",
+    "gbd_hash": "7cbc3ce2052ba7c5b501f75af58ab3c4",
+    "gbd": {
+      "hash": "7cbc3ce2052ba7c5b501f75af58ab3c4",
+      "cells": [
+        "7cbc3ce2052ba7c5b501f75af58ab3c4",
+        "3a681770e66def8c650901ce334426ee",
+        "cryptography-simon",
+        "yuhangqian",
+        "sat",
+        "http://hdl.handle.net/10138/584822",
+        "no",
+        "3a4a69d1861a99e5",
+        "simon-r22-1.sanitized.cnf.xz",
+        "main_2024,main_2026,submissions_2024"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "or_randxor_k3_n600_m600.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/or_randxor_k3_n600_m600.cnf.xz",
+    "gbd_hash": "0be1e12a8e7282d1a4e389bb90f6dbc7",
+    "gbd": {
+      "hash": "0be1e12a8e7282d1a4e389bb90f6dbc7",
+      "cells": [
+        "0be1e12a8e7282d1a4e389bb90f6dbc7",
+        "e00905575ce250f56ba9b1a7fcf2c281",
+        "or_randxor",
+        "yldirimoglu",
+        "unsat",
+        "http://hdl.handle.net/10138/563824",
+        "no",
+        "c6db7912fbb278c5",
+        "or_randxor_k3_n600_m600.cnf.xz",
+        "main_2023,main_2026,submissions_2023"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "ais8.cnf.mis-97.debugged.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/ais8.cnf.mis-97.debugged.cnf.xz",
+    "gbd_hash": "262a226a47330987f038128579967405",
+    "gbd": {
+      "hash": "262a226a47330987f038128579967405",
+      "cells": [
+        "262a226a47330987f038128579967405",
+        "9f42e4010b6535c7f2bb778270a84b49",
+        "unknown",
+        "unknown",
+        "unsat",
+        "empty",
+        "no",
+        "1b35101486e98a12",
+        "ais8.cnf.mis-97.debugged.cnf.xz",
+        "anni_2022,crafted_2012,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "par32-4-c.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/par32-4-c.shuffled.cnf.xz",
+    "gbd_hash": "61fee64c8fc7f05b97a2bc14c0c2bf41",
+    "gbd": {
+      "hash": "61fee64c8fc7f05b97a2bc14c0c2bf41",
+      "cells": [
+        "61fee64c8fc7f05b97a2bc14c0c2bf41",
+        "f4d9381f9b6488dfaca6edc250777b7c",
+        "minimal-disagreement-parity",
+        "simon",
+        "sat",
+        "empty",
+        "no",
+        "b53106b54c160c73",
+        "par32-4-c.shuffled.cnf.xz",
+        "anni_2022,handmade_2002,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "GreenTao_2-3-5_528.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/GreenTao_2-3-5_528.cnf.xz",
+    "gbd_hash": "08cf53ca00dce11f5bfc02121c9bcd33",
+    "gbd": {
+      "hash": "08cf53ca00dce11f5bfc02121c9bcd33",
+      "cells": [
+        "08cf53ca00dce11f5bfc02121c9bcd33",
+        "d21a4e8bc43efe0a7c22e8b2c401f0c4",
+        "greentao",
+        "kullmann",
+        "unsat",
+        "empty",
+        "no",
+        "6f9c963fdddee738",
+        "GreenTao_2-3-5_528.cnf.xz",
+        "anni_2022,crafted_2011,crafted_2012,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "toughsat_factoring_inf.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/toughsat_factoring_inf.cnf.xz",
+    "gbd_hash": "8da88a43b4ac226f614dd82d4519d8c6",
+    "gbd": {
+      "hash": "8da88a43b4ac226f614dd82d4519d8c6",
+      "cells": [
+        "8da88a43b4ac226f614dd82d4519d8c6",
+        "b7a4f8577af6ab4e17014433446666f4",
+        "prime-factoring",
+        "bebel",
+        "sat",
+        "empty",
+        "no",
+        "cf43a93db483c07a",
+        "toughsat_factoring_inf.cnf.xz",
+        "anni_2022,crafted_2013,crafted_2014,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "marg6x6.shuffled-as.sat03-1456.cnf.mis-119.debugged.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/marg6x6.shuffled-as.sat03-1456.cnf.mis-119.debugged.cnf.xz",
+    "gbd_hash": "7e21850936d6127540157afaaf912c02",
+    "gbd": {
+      "hash": "7e21850936d6127540157afaaf912c02",
+      "cells": [
+        "7e21850936d6127540157afaaf912c02",
+        "938d531a64bfd2519d130063eaf3293d",
+        "tseitin-formulas",
+        "bevan",
+        "unknown",
+        "empty",
+        "no",
+        "e1891ed2d3877017",
+        "marg6x6.shuffled-as.sat03-1456.cnf.mis-119.debugged.cnf.xz",
+        "anni_2022,crafted_2012,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "p160_1.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/p160_1.cnf.xz",
+    "gbd_hash": "83ced7d9ee8058c52c9a68ded7fad0a5",
+    "gbd": {
+      "hash": "83ced7d9ee8058c52c9a68ded7fad0a5",
+      "cells": [
+        "83ced7d9ee8058c52c9a68ded7fad0a5",
+        "994d3478e7f2b03bf78416e71fc0a919",
+        "coloring",
+        "mayer",
+        "sat",
+        "empty",
+        "no",
+        "f41f510f79196042",
+        "p160_1.cnf.xz",
+        "anni_2022,crafted_2013,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "rpoc_xits_09_UNSAT.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/rpoc_xits_09_UNSAT.cnf.xz",
+    "gbd_hash": "123c397f55eeae78c45e8d973b8e9dce",
+    "gbd": {
+      "hash": "123c397f55eeae78c45e8d973b8e9dce",
+      "cells": [
+        "123c397f55eeae78c45e8d973b8e9dce",
+        "b25181ae33f318f3374db277a5a41950",
+        "bioinformatics",
+        "bonet",
+        "unsat",
+        "empty",
+        "no",
+        "7e451837c9536fa6",
+        "rpoc_xits_09_UNSAT.cnf.xz",
+        "anni_2022,application_2009,application_2011,application_2016,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "size_5_5_5_i116_r12.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/size_5_5_5_i116_r12.cnf.xz",
+    "gbd_hash": "b438fa464c20a19fdb7788a3f0016f32",
+    "gbd": {
+      "hash": "b438fa464c20a19fdb7788a3f0016f32",
+      "cells": [
+        "b438fa464c20a19fdb7788a3f0016f32",
+        "06cffde9dcefe44821dfd181777e5066",
+        "tensors",
+        "savicky",
+        "sat",
+        "empty",
+        "no",
+        "2efc2c0a5333d38c",
+        "size_5_5_5_i116_r12.cnf.xz",
+        "main_2019,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "Carry_Bits_Fast_12.cnf.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/Carry_Bits_Fast_12.cnf.cnf.xz",
+    "gbd_hash": "6d815089fb4095208754622b4c44a8f7",
+    "gbd": {
+      "hash": "6d815089fb4095208754622b4c44a8f7",
+      "cells": [
+        "6d815089fb4095208754622b4c44a8f7",
+        "a795e60f90956f3e335ae5c9c1f025f9",
+        "multiplier-circuits",
+        "shunyang",
+        "sat",
+        "http://hdl.handle.net/10138/359079",
+        "no",
+        "6f5dcd0f21fccf8f",
+        "Carry_Bits_Fast_12.cnf.cnf.xz",
+        "main_2022,main_2026,submissions_2022"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "StConn_7_128.sanitized.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/StConn_7_128.sanitized.cnf.xz",
+    "gbd_hash": "b3c587501567db72e6e66c6930cf15ed",
+    "gbd": {
+      "hash": "b3c587501567db72e6e66c6930cf15ed",
+      "cells": [
+        "b3c587501567db72e6e66c6930cf15ed",
+        "fc8d74caffe5088d711aabda9e926eae",
+        "st-connectivity-principle",
+        "sambuss",
+        "unsat",
+        "http://hdl.handle.net/10138/584822",
+        "no",
+        "37888cd7474e6f35",
+        "StConn_7_128.sanitized.cnf.xz",
+        "main_2024,main_2026,submissions_2024"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "x2_64.shuffled-as.sat03-1603.cnf.mis-125.debugged.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/x2_64.shuffled-as.sat03-1603.cnf.mis-125.debugged.cnf.xz",
+    "gbd_hash": "3a8409393cc1ebae1444a079d216f221",
+    "gbd": {
+      "hash": "3a8409393cc1ebae1444a079d216f221",
+      "cells": [
+        "3a8409393cc1ebae1444a079d216f221",
+        "2664b6516017e664acedc8c6f8388680",
+        "xor-chain",
+        "zhang-lintao",
+        "unknown",
+        "empty",
+        "no",
+        "d566fd2ba78885c0",
+        "x2_64.shuffled-as.sat03-1603.cnf.mis-125.debugged.cnf.xz",
+        "anni_2022,crafted_2012,main_2026,portfolio_2012"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "par32-4.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/par32-4.shuffled.cnf.xz",
+    "gbd_hash": "1eea3d913d346b900252d77fc0cb25c8",
+    "gbd": {
+      "hash": "1eea3d913d346b900252d77fc0cb25c8",
+      "cells": [
+        "1eea3d913d346b900252d77fc0cb25c8",
+        "c0c913442dcbb100ed1fb39cf075590f",
+        "minimal-disagreement-parity",
+        "simon",
+        "sat",
+        "empty",
+        "no",
+        "414c4f7244f07d9f",
+        "par32-4.shuffled.cnf.xz",
+        "anni_2022,handmade_2002,main_2023,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "genurq7Sat.shuffled-as.sat03-1513.cnf.mis-135.debugged.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/genurq7Sat.shuffled-as.sat03-1513.cnf.mis-135.debugged.cnf.xz",
+    "gbd_hash": "c6487f6dfcc1438eccca1876a33d9a9c",
+    "gbd": {
+      "hash": "c6487f6dfcc1438eccca1876a33d9a9c",
+      "cells": [
+        "c6487f6dfcc1438eccca1876a33d9a9c",
+        "6ddd951c311231b1748bbd16cdb9c651",
+        "genurq",
+        "ostrowski",
+        "unknown",
+        "empty",
+        "no",
+        "2a65fbd4b20bc728",
+        "genurq7Sat.shuffled-as.sat03-1513.cnf.mis-135.debugged.cnf.xz",
+        "anni_2022,crafted_2012,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "Nb7T08.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/Nb7T08.cnf.xz",
+    "gbd_hash": "90937ed75ba0560158d8fe45f303868a",
+    "gbd": {
+      "hash": "90937ed75ba0560158d8fe45f303868a",
+      "cells": [
+        "90937ed75ba0560158d8fe45f303868a",
+        "30109d64a8286edba612f68877772300",
+        "polynomial-multiplication",
+        "xiao",
+        "unknown",
+        "https://helda.helsinki.fi/bitstream/handle/10138/224324/sc2017-proceedings.pdf#page=43",
+        "no",
+        "721256c2a34925a6",
+        "mp1-Nb7T08.cnf.xz",
+        "anni_2022,main_2017,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "grain-53-80-0s0-seed-125-4-init-35.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/grain-53-80-0s0-seed-125-4-init-35.cnf.xz",
+    "gbd_hash": "3e912cd2a499b8f956246b866e2f9f64",
+    "gbd": {
+      "hash": "3e912cd2a499b8f956246b866e2f9f64",
+      "cells": [
+        "3e912cd2a499b8f956246b866e2f9f64",
+        "9be2e12837568b1a6ccea12f71be0286",
+        "cryptography",
+        "shaw",
+        "unsat",
+        "http://hdl.handle.net/10138/318754",
+        "no",
+        "c4c54583de28320f",
+        "grain-53-80-0s0-seed-125-4-init-35.cnf.xz",
+        "anni_2022,main_2020,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "em_8_4_5_fbc.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/em_8_4_5_fbc.cnf.xz",
+    "gbd_hash": "fca71c20202ef404349136c3a00465eb",
+    "gbd": {
+      "hash": "fca71c20202ef404349136c3a00465eb",
+      "cells": [
+        "fca71c20202ef404349136c3a00465eb",
+        "fe10dc1beb5b0bb3a47cef7c29d64c93",
+        "edge-matching",
+        "heule",
+        "sat",
+        "empty",
+        "no",
+        "b4d2896711e58ff8",
+        "em_8_4_5_fbc.cnf.xz",
+        "anni_2022,crafted_2009,crafted_2011,crafted_2012,main_2026,portfolio_2012"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "sqrt-mitern168.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/sqrt-mitern168.cnf.xz",
+    "gbd_hash": "fbf3b9f8a03a1efedae3da04622fe96e",
+    "gbd": {
+      "hash": "fbf3b9f8a03a1efedae3da04622fe96e",
+      "cells": [
+        "fbf3b9f8a03a1efedae3da04622fe96e",
+        "4e167c5e7c1a2198405451c6ac2a941e",
+        "circuit-equivalence-checking",
+        "xinyan",
+        "unsat",
+        "http://hdl.handle.net/10138/359079",
+        "no",
+        "b8a9197ef0d24760",
+        "sqrt-mitern168.cnf.xz",
+        "main_2022,main_2026,submissions_2022"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "hitag2-7-60-0-0xe8fa35372ed37e2-80.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/hitag2-7-60-0-0xe8fa35372ed37e2-80.cnf.xz",
+    "gbd_hash": "d9fe50de72fb34ea94518c32d8f3077c",
+    "gbd": {
+      "hash": "d9fe50de72fb34ea94518c32d8f3077c",
+      "cells": [
+        "d9fe50de72fb34ea94518c32d8f3077c",
+        "76f9aabd4d057b9df645fc1fcbec6e8f",
+        "cryptography",
+        "soos",
+        "unsat",
+        "empty",
+        "no",
+        "fa082acca3dcc29f",
+        "hitag2-7-60-0-0xe8fa35372ed37e2-80.cnf.xz",
+        "anni_2022,application_2013,application_2014,crypto_2021,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "hitag2-8-60-0-0xdcdbc8bf368ee73-37.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/hitag2-8-60-0-0xdcdbc8bf368ee73-37.cnf.xz",
+    "gbd_hash": "b76b9699c2deb74dd9b4a99a05179acd",
+    "gbd": {
+      "hash": "b76b9699c2deb74dd9b4a99a05179acd",
+      "cells": [
+        "b76b9699c2deb74dd9b4a99a05179acd",
+        "2b7962632ae3fc4a5eaef44a1a270aab",
+        "cryptography",
+        "soos",
+        "unsat",
+        "empty",
+        "no",
+        "143f5eb94eead552",
+        "hitag2-8-60-0-0xdcdbc8bf368ee73-37.cnf.xz",
+        "anni_2022,application_2013,application_2014,main_2026"
+      ]
+    },
+    "also_in_main_2026": true
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "battleship-3-5-sat.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/battleship-3-5-sat.cnf.xz",
+    "gbd_hash": "23a92c04ee9248308a18d6a44e5d15f0",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "marg2x2.shuffled-as.sat03-1440.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/marg2x2.shuffled-as.sat03-1440.cnf.xz",
+    "gbd_hash": "2b738a1991a7318cad993a809b10cc2c",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "Steiner-9-5-bce.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/Steiner-9-5-bce.cnf.xz",
+    "gbd_hash": "0928111a3d5d5ce05dffb83cb5982eba",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "instance_n2_i2_pp.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/instance_n2_i2_pp.cnf.xz",
+    "gbd_hash": "f349621e75ede4e9e9422b3d0f677268",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "linvrinv2.shuffled-as.sat05-561.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/linvrinv2.shuffled-as.sat05-561.cnf.xz",
+    "gbd_hash": "f42d2ce7b4efd3f96e063dd1f6fec7f1",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "ca002.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/ca002.shuffled.cnf.xz",
+    "gbd_hash": "47e3b78c2157b685e23b53915a1b33b5",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "rope_0001.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/rope_0001.shuffled.cnf.xz",
+    "gbd_hash": "6b36abc94899ab1d25a9c48d7697916c",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "s57-100.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/s57-100.cnf.xz",
+    "gbd_hash": "a03161dfe27323ee20614f27d8a803db",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "depots1_v01a.renamed-as.sat05-3946.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/depots1_v01a.renamed-as.sat05-3946.cnf.xz",
+    "gbd_hash": "7e19f295d35c30ac4d5386ffec1fcf28",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "urqh1c2x2.shuffled-as.sat03-1457.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/urqh1c2x2.shuffled-as.sat03-1457.cnf.xz",
+    "gbd_hash": "6ff98b815c0ff57d92086702e7dd2829",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "dodecahedron.shuffled-as.sat03-1429.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/dodecahedron.shuffled-as.sat03-1429.cnf.xz",
+    "gbd_hash": "9a9827b82f6ff4fd887f0ada83dd2eab",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "sgen1-unsat-73-100.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/sgen1-unsat-73-100.cnf.xz",
+    "gbd_hash": "1fdc28d676358b7e66bdf072dbbdba0b",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "urquhart2_25bis.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/urquhart2_25bis.shuffled.cnf.xz",
+    "gbd_hash": "9a9e21318977d18e1d51a744adc7d854",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "grid_05_05.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/grid_05_05.shuffled.cnf.xz",
+    "gbd_hash": "e49c408c713af6dde16f707e38419a3c",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "barrel2.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/barrel2.cnf.xz",
+    "gbd_hash": "18f54820956791d3028868b56a09c6cd",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "edges-024-4-7787777-1-00.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/edges-024-4-7787777-1-00.cnf.xz",
+    "gbd_hash": "2e59129ef0d4fcaf1a3b9ae53e465238",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "x2_16.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/x2_16.shuffled.cnf.xz",
+    "gbd_hash": "076d4d6f83306ee69c35e3c99e30d8f8",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "hypercube4.shuffled-as.sat03-1434.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/hypercube4.shuffled-as.sat03-1434.cnf.xz",
+    "gbd_hash": "04327b18171b43ff06586707499b97fc",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "ph10.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/ph10.cnf.xz",
+    "gbd_hash": "91eba6d10294887fa57557b590e655ae",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "genurq3Sat.shuffled-as.sat03-1509.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/genurq3Sat.shuffled-as.sat03-1509.cnf.xz",
+    "gbd_hash": "c3cc6d7dc2f972fa2d8b4830f230aacf",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "3col20_5_6.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/3col20_5_6.shuffled.cnf.xz",
+    "gbd_hash": "00f969737ba4338bd233cd3ed249bd55",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "driverlog1_v01a.renamed-as.sat05-3959.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/driverlog1_v01a.renamed-as.sat05-3959.cnf.xz",
+    "gbd_hash": "de9bd34a5878463915cd46541d047461",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "tph6.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/tph6.cnf.xz",
+    "gbd_hash": "b34558f90065c55c81f380ac28ad6b06",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "mod2-3cage-unsat-9-18.shuffled-as.sat05-2593.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/mod2-3cage-unsat-9-18.shuffled-as.sat05-2593.cnf.xz",
+    "gbd_hash": "0ddb14f3c94bcd7233ef0c64bc1ffc56",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "urq35.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/urq35.cnf.xz",
+    "gbd_hash": "940a69d9f16d6c8d7a535662386e9b5d",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "icosahedron.shuffled-as.sat03-1438.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/icosahedron.shuffled-as.sat03-1438.cnf.xz",
+    "gbd_hash": "cfd1346d0bd598be135475ecd856eb9e",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "php-010-008.shuffled-as.sat05-1171.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/php-010-008.shuffled-as.sat05-1171.cnf.xz",
+    "gbd_hash": "daa64046112eb50107587b859f856a7d",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "bevhcube4.shuffled-as.sat03-1426.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/bevhcube4.shuffled-as.sat03-1426.cnf.xz",
+    "gbd_hash": "6f24965c8737ff3f427c072958fe35b4",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "randomG-n16-d05.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/randomG-n16-d05.cnf.xz",
+    "gbd_hash": "951a20a37a23488001f3aa2fa53e6baa",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "worker_20_20_16_0.9.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/worker_20_20_16_0.9.cnf.xz",
+    "gbd_hash": "a4451734e7f5f2ce7b481688a693c4e9",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "ccp-s5-facto2.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/ccp-s5-facto2.cnf.xz",
+    "gbd_hash": "1094358cc79c387e172b2a82559faf65",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "dp02u01.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/dp02u01.shuffled.cnf.xz",
+    "gbd_hash": "742d3f612b1d0589ed024ba87dffe3c5",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "hgen8-n260-01-S1597732451.shuffled-as.sat05-480.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/hgen8-n260-01-S1597732451.shuffled-as.sat05-480.cnf.xz",
+    "gbd_hash": "2db24587fa4da8d6bf3b55c9ff6c10a4",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "hcb3.shuffled-as.sat03-1431.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/hcb3.shuffled-as.sat03-1431.cnf.xz",
+    "gbd_hash": "3ce73c94ea228d9f82d9ce0a35e44678",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "mutcb12.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/mutcb12.cnf.xz",
+    "gbd_hash": "5e4c0a8e068c90325093e087d2e5b25c",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "fphp-010-008.shuffled-as.sat05-1213.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/fphp-010-008.shuffled-as.sat05-1213.cnf.xz",
+    "gbd_hash": "44ab80d376f78495483e45bb8088c3ae",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "tseitin_d3_n160.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/tseitin_d3_n160.cnf.xz",
+    "gbd_hash": "835ac60ca83af6f334b64b61c4ad345b",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "bmc1-23.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/bmc1-23.shuffled.cnf.xz",
+    "gbd_hash": "83ecab8576e44dc4311806171a1897e2",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "BZ2File_write_11.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/BZ2File_write_11.cnf.xz",
+    "gbd_hash": "246afd75cb97a21144f368c00252a656",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "fixedbandwidth-eq-31_shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/fixedbandwidth-eq-31_shuffled.cnf.xz",
+    "gbd_hash": "2d6d26e1c5b4f2763c03697a6d00d3cf",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "LZMAFile_write_12.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/LZMAFile_write_12.cnf.xz",
+    "gbd_hash": "dd169198070f9aa35015de65e8209a05",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "icos_stretch.shuffled-as.sat03-1439.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/icos_stretch.shuffled-as.sat03-1439.cnf.xz",
+    "gbd_hash": "37aad570c1cd0eeff448e04d3d2ba9b4",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "bart10.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/bart10.shuffled.cnf.xz",
+    "gbd_hash": "77b18f227ee94d32a489a552abd8ee6b",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "GzipFile_close_11.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/GzipFile_close_11.cnf.xz",
+    "gbd_hash": "72b5ad031bf852634bc081f9da9a5a60",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "Break_unsat_04_03.xml.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/Break_unsat_04_03.xml.cnf.xz",
+    "gbd_hash": "09d7add3bf3b75c5d1023a92e752989a",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "aloul-chnl11-13.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/aloul-chnl11-13.cnf.xz",
+    "gbd_hash": "7399b86263f8b97f37480968786d1a9a",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "crn_11_99_u.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/crn_11_99_u.cnf.xz",
+    "gbd_hash": "ef330d1b144055436a2d576601191ea5",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "pmg-11-UNSAT.shuffled-as.sat05-3939.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/pmg-11-UNSAT.shuffled-as.sat05-3939.cnf.xz",
+    "gbd_hash": "b33252a0ae12bbdb10449932540776dd",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "queueinvar4.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/queueinvar4.cnf.xz",
+    "gbd_hash": "a2c261d05e11ef8a6a53ee5cac718c81",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "homer06.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/homer06.shuffled.cnf.xz",
+    "gbd_hash": "3c194bebd33c343386d0cd3225b6faac",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "mchess16-mixed-25percent-blocked.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/mchess16-mixed-25percent-blocked.cnf.xz",
+    "gbd_hash": "d7f381cd99ca40ba3324c8cc03a54269",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "hwb-n20-02-S1178225014.shuffled-as.sat03-1608.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/hwb-n20-02-S1178225014.shuffled-as.sat03-1608.cnf.xz",
+    "gbd_hash": "a0b76f95482dd0f2d575b8859c7bc549",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "aes_32_1_keyfind_1.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/aes_32_1_keyfind_1.cnf.xz",
+    "gbd_hash": "6a7e2442211bec545e8929e02a8b6b22",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "CNF_to_alien_11.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/CNF_to_alien_11.cnf.xz",
+    "gbd_hash": "b09585f2346c207e9e14a3daf0de46cf",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "satellite1_v01a.renamed-as.sat05-3985.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/satellite1_v01a.renamed-as.sat05-3985.cnf.xz",
+    "gbd_hash": "d3a03e118315f298d3855d7b5418bf3e",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "bsat180-648.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/bsat180-648.cnf.xz",
+    "gbd_hash": "eac4b2e1c2fc8b94a135b5b1c6b7b228",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "FileObject_open_12.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/FileObject_open_12.cnf.xz",
+    "gbd_hash": "a4b05fbc5be28207b704e1fae4b7c8a0",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "DecompressReader_read_12.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/DecompressReader_read_12.cnf.xz",
+    "gbd_hash": "37d40a1092b58ad28285b9453872d211",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "rovers4_v01a.renamed-as.sat05-3979.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/rovers4_v01a.renamed-as.sat05-3979.cnf.xz",
+    "gbd_hash": "6459a34b91aa3bc54a3c587579b1ac95",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "squ_any_s09x07_c27_sinz_UNS.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/squ_any_s09x07_c27_sinz_UNS.cnf.xz",
+    "gbd_hash": "22fdbcb094a1c1b513b8fd90e9b50f65",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "tri_ali_s11_c35_sinz_UNS.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/tri_ali_s11_c35_sinz_UNS.cnf.xz",
+    "gbd_hash": "4c9b7b964c5b2b540ee5e09b3a5f3c8e",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "rphp_p6_r28.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/rphp_p6_r28.cnf.xz",
+    "gbd_hash": "d518d21a9d851741940749cb59f558af",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "eulcbip-7-UNSAT.shuffled-as.sat05-3936.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/eulcbip-7-UNSAT.shuffled-as.sat05-3936.cnf.xz",
+    "gbd_hash": "e9d3a00b12d744f582fe2159e74b1389",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "counting-harder-php-014-013.sat05-1187.reshuffled-07.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/counting-harder-php-014-013.sat05-1187.reshuffled-07.cnf.xz",
+    "gbd_hash": "73eea2912e1b5e74d971903952a97208",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "eq.atree.braun.7.unsat.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/eq.atree.braun.7.unsat.cnf.xz",
+    "gbd_hash": "72734030fb313d7a07168c18b5a61530",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "satsgi-n17himBHm20-p0-q146.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/satsgi-n17himBHm20-p0-q146.cnf.xz",
+    "gbd_hash": "ab1577c71ec3dd0234902a780a6b0dfd",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "clqcolor-08-05-06.shuffled-as.sat05-1249.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/clqcolor-08-05-06.shuffled-as.sat05-1249.cnf.xz",
+    "gbd_hash": "f28e5edf37f4e8df3c81c5e7c5fb9aa8",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "cruxmiter28seed8.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/cruxmiter28seed8.cnf.xz",
+    "gbd_hash": "361bc22fcce8aba53fbd08f52f8d0871",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "glassy-sat-sel_N210_n.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/glassy-sat-sel_N210_n.shuffled.cnf.xz",
+    "gbd_hash": "3f9eb8a80e0cf6795a1d18befc27358c",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "StreamReader_readline_13.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/StreamReader_readline_13.cnf.xz",
+    "gbd_hash": "fd2af7622798171f23a4b8d2616df55e",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "MUS-v300-1.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/MUS-v300-1.cnf.xz",
+    "gbd_hash": "3a72f05cc282ceb03b1347a869482850",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "fclqcolor-08-05-06.shuffled-as.sat05-1273.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/fclqcolor-08-05-06.shuffled-as.sat05-1273.cnf.xz",
+    "gbd_hash": "83ce47cd134a5238ebf0986372880e26",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "a_rphp035_05.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/a_rphp035_05.cnf.xz",
+    "gbd_hash": "217256b141ade2c4d06120f01360f63a",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "ezfact16_10.shuffled.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/ezfact16_10.shuffled.cnf.xz",
+    "gbd_hash": "55c0dbf680e0ab5c6263feb4ad143c0e",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "Pb-chnl15-16_c18.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/Pb-chnl15-16_c18.cnf.xz",
+    "gbd_hash": "854e92b1b7b24def3535fccbcf94cb8a",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "two-trees-511v.sanitized.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/two-trees-511v.sanitized.cnf.xz",
+    "gbd_hash": "16c5482d8e658b54e20d59cfd4b1d588",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "myciel6-tr.used-as.sat04-320.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/myciel6-tr.used-as.sat04-320.cnf.xz",
+    "gbd_hash": "57f6d8a1bc0b33ce11e14507b6839f44",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "posixpath__joinrealpath_13.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/posixpath__joinrealpath_13.cnf.xz",
+    "gbd_hash": "11db226d109e82f93aaa3b2604173ff9",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "ferry6_v01a.renamed-as.sat05-3998.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/ferry6_v01a.renamed-as.sat05-3998.cnf.xz",
+    "gbd_hash": "bf98b225d34a293bb9d10f588e2653a9",
+    "gbd": null,
+    "also_in_main_2026": false
+  },
+  {
+    "url": "https://zenodo.org/records/15125952/files/sc02to24.zip?download=1",
+    "archive_member": "gt-012.shuffled-as.sat05-1289.cnf.xz",
+    "path": "sources/originals/satcompetition_archive/gt-012.shuffled-as.sat05-1289.cnf.xz",
+    "gbd_hash": "c51946462f76108b9c877cbcc4226cb8",
+    "gbd": null,
+    "also_in_main_2026": false
+  }
+]

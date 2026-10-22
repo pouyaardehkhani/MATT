@@ -1,0 +1,10 @@
+{
+  "version": "3.0.0",
+  "status": "PASS",
+  "regenerated_formula_files": 4020,
+  "generated_scenarios": 19,
+  "byte_identical_formula_hashes": true,
+  "temporary_copy_removed_on_completion": true,
+  "source_originals": "Preserved exact source archives and per-original SHA256; not re-downloaded for this check.",
+  "label_metadata": "Budget-dependent oracle metadata is not required to reproduce byte-for-byte; formula bytes are."
+}

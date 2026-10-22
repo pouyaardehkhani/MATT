@@ -1,0 +1,120 @@
+{
+  "retrieval_date": "2026-10-16",
+  "files": [
+    {
+      "url": "https://codeload.github.com/MassimoLauria/cnfgen/zip/refs/heads/master",
+      "path": "sources/archives/cnfgen-source.zip",
+      "bytes": 372753,
+      "sha256": "36ed9316d2011b3addfc57df2dcda25555e847f3d2a0ff872393966b50586c83"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb10-6-wcnf.tar.gz",
+      "path": "sources/archives/frb10-6-wcnf.tar.gz",
+      "bytes": 51200,
+      "sha256": "d7f8807b402982f250e2c20455d415c2650de0b7aef59c04fb954eb1530166df"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb15-9-wcnf.tar.gz",
+      "path": "sources/archives/frb15-9-wcnf.tar.gz",
+      "bytes": 204800,
+      "sha256": "8ade9a61e39db3a61bd97e9824d178f4eec5a6b1e9a0b58ad7cb037d53e90f8a"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb20-11-wcnf.tar.gz",
+      "path": "sources/archives/frb20-11-wcnf.tar.gz",
+      "bytes": 460800,
+      "sha256": "934e69c078cc732ea2bf81cea4d59b727706592572ddaea538639553fd396a9a"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb25-13-wcnf.tar.gz",
+      "path": "sources/archives/frb25-13-wcnf.tar.gz",
+      "bytes": 880640,
+      "sha256": "f34d4d60b75e9f8d5be33d67f2ace16f2e0e66ed62fe27a16a10d0eb6873f938"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb30-15-wcnf.tar.gz",
+      "path": "sources/archives/frb30-15-wcnf.tar.gz",
+      "bytes": 1484800,
+      "sha256": "4211fc2c01c81d9a780c62af48f2d34e00ea7b5eca79c14a11ad3ea41b8190d3"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb35-17-wcnf.tar.gz",
+      "path": "sources/archives/frb35-17-wcnf.tar.gz",
+      "bytes": 2344960,
+      "sha256": "0ebaa65d701d022bc83d9787a22966bdb4bed997f2be35eafab86cc98c66ae94"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb40-19-wcnf.tar.gz",
+      "path": "sources/archives/frb40-19-wcnf.tar.gz",
+      "bytes": 3481600,
+      "sha256": "3b47454b5581584bd16ee7ec796c659c6f0616b544c50a68ff5800e534b0ccf7"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb45-21-wcnf.tar.gz",
+      "path": "sources/archives/frb45-21-wcnf.tar.gz",
+      "bytes": 4935680,
+      "sha256": "f4757e4df21fd8072c1f9ce58d43fb7cdbbdc2466e756069259688a12b4a291a"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb50-23-wcnf.tar.gz",
+      "path": "sources/archives/frb50-23-wcnf.tar.gz",
+      "bytes": 7270400,
+      "sha256": "ac3aec57f7572ae0aa6cd0afb8c601358c562ca7bb48de65078990b1012edbe5"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb53-24-wcnf.tar.gz",
+      "path": "sources/archives/frb53-24-wcnf.tar.gz",
+      "bytes": 8622080,
+      "sha256": "40414d50b4c45ecae083972201bc81e957240ad51e35197ac91039d0583d9036"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb56-25-wcnf.tar.gz",
+      "path": "sources/archives/frb56-25-wcnf.tar.gz",
+      "bytes": 10106880,
+      "sha256": "56150f50041b53338f41e971faf034b6fc770bad792b739c6a68a72a8c69929e"
+    },
+    {
+      "url": "https://rb-bench.github.io/assets/bench/frb59-26-wcnf.tar.gz",
+      "path": "sources/archives/frb59-26-wcnf.tar.gz",
+      "bytes": 11724800,
+      "sha256": "37877d483bcbeddf5aca095979098697ffa26e7c1350ffa21e2c7527b457f624"
+    },
+    {
+      "url": "https://zenodo.org/records/21358014/files/benchmark-metadata.csv?download=1",
+      "path": "sources/archives/mse2026-metadata.csv",
+      "bytes": 81089,
+      "sha256": "33ae45c6b83ee82d8da8a8cd7e8e0ef848eabe0ea1513a51b6e3aca738f6fa90"
+    },
+    {
+      "url": "https://codeload.github.com/johannaSommer/generalization-neural-co-solvers/zip/refs/heads/main",
+      "path": "sources/archives/neural-robustness-source.zip",
+      "bytes": 44977064,
+      "sha256": "81308e556570f1a1e6c61943624be791886849c3176cfacee1d9dda1dc449e90"
+    },
+    {
+      "url": "https://maxsat-evaluations.github.io/2024/MaxSATRegressionSuiteWCNFs.zip",
+      "path": "sources/archives/regression-suite.zip",
+      "bytes": 2100857,
+      "sha256": "e59a47715091f59eb67e44d782deef2efebf6fd795d8ec42e40ec4cb813b126f"
+    },
+    {
+      "url": "https://codeload.github.com/tobipaxe/MaxSATRegressionSuite/zip/refs/heads/main",
+      "path": "sources/archives/regression-tools.zip",
+      "bytes": 13692,
+      "sha256": "d0c381add3a0ef69890a21902f2d08a60296e24f43a359f4f6f4d8f1366e8a6e"
+    },
+    {
+      "url": "https://satcompetition.github.io/2026/downloads.html",
+      "path": "sources/archives/satcomp2026-downloads.html",
+      "bytes": 2179,
+      "sha256": "3bb4852ceb1e2d6431f98b2f9f3444e1e1659d264020740bfad41a1f8008cedc"
+    },
+    {
+      "url": "https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html",
+      "path": "sources/archives/satlib-index.html",
+      "bytes": 18305,
+      "sha256": "dcae029c157a774bf2397e364bd12747e201a818a25c54cab3e13004b58f2b73"
+    }
+  ],
+  "failures": []
+}

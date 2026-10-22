@@ -1,0 +1,34 @@
+[
+  {
+    "id": "application_resolution_amplification",
+    "family": "cnf",
+    "title": "Resolution-implied additions to imported CNFs",
+    "scenario": "A genuine SATLIB benchmark gains clauses obtained by one-step resolution of existing clauses.",
+    "rationale": "The added constraints can change heuristic features but preserve every model and the complete original backbone. Each addition carries its two parent indices and pivot.",
+    "intervention": "Append checked non-tautological resolvents.",
+    "targets": [
+      "A",
+      "D"
+    ],
+    "origin": "controlled_derivative",
+    "tier": "application",
+    "groups": 120,
+    "examples": 240
+  },
+  {
+    "id": "application_objective_scaling",
+    "family": "wcnf",
+    "title": "Exact objective scaling on real MaxSAT applications",
+    "scenario": "An imported MSE 2026 application formula is reweighted by a positive integer factor.",
+    "rationale": "Every feasible assignment cost scales exactly, giving a checkable relation on real problem structure. Source-only absolute optimum claims remain source-only.",
+    "intervention": "Multiply all soft weights while retaining every hard constraint.",
+    "targets": [
+      "B",
+      "C"
+    ],
+    "origin": "controlled_derivative",
+    "tier": "external_reference",
+    "groups": 120,
+    "examples": 240
+  }
+]

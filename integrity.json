@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "retained_source_files": 1494,
+  "retained_source_bytes": 214920616,
+  "normalized_formula_bytes": 1966794005,
+  "identical_formula_split_leaks": 0,
+  "source_lineage_split_leaks": 0,
+  "source_lineages": 2360,
+  "split_lineage_components": 7384,
+  "competition_archive_originals": 120,
+  "also_in_2026_selection": 40,
+  "published_rb_originals": 60,
+  "published_rb_locally_attained_optima": 20,
+  "source_discrepancies": 1,
+  "manifest_sha256": "b696ee26fafc5d590c1acd52e7e4fc554aee2f363ce4f00b4d37160bdd82bcb2"
+}

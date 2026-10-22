@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.cs.ubc.ca/~hoos/SATLIB/Benchmarks/SAT/RND3SAT/uuf50-218.tar.gz",
+    "path": "sources/archives/satlib-uuf50-218.tar.gz",
+    "bytes": 876573,
+    "sha256": "24cc9f492673e0f975fecc56b3a4d8ac21c385cc46205d83b7491a787f43e13d"
+  },
+  {
+    "url": "https://www.cs.ubc.ca/~hoos/SATLIB/Benchmarks/SAT/RND3SAT/uf50-218.tar.gz",
+    "path": "sources/archives/satlib-uf50-218.tar.gz",
+    "bytes": 878261,
+    "sha256": "a40862e52dfdce78620b037254579a02dbda8182d2879433658a4c15cb00327c"
+  },
+  {
+    "url": "https://www.cs.ubc.ca/~hoos/SATLIB/Benchmarks/SAT/CBS/CBS_k3_n100_m403_b10.tar.gz",
+    "path": "sources/archives/satlib-CBS_k3_n100_m403_b10.tar.gz",
+    "bytes": 1827752,
+    "sha256": "96f5350c5deeda6db0e5543c91687a69175e489081e53df316ee4a48c1322a01"
+  },
+  {
+    "url": "https://www.cs.ubc.ca/~hoos/SATLIB/Benchmarks/SAT/RND3SAT/uf100-430.tar.gz",
+    "path": "sources/archives/satlib-uf100-430.tar.gz",
+    "bytes": 1906370,
+    "sha256": "7f691acb8c45790ef8178dd01bb362cf50da608d478be9965599131f0a763e59"
+  },
+  {
+    "url": "https://www.cs.ubc.ca/~hoos/SATLIB/Benchmarks/SAT/RND3SAT/uuf100-430.tar.gz",
+    "path": "sources/archives/satlib-uuf100-430.tar.gz",
+    "bytes": 1908531,
+    "sha256": "736c6f94fecae346a00501b197c482e146b1c6ab05fb6d2e4666e520b8e8508a"
+  },
+  {
+    "url": "https://satcompetition.github.io/2026/downloads/track_main_2026.uri",
+    "path": "sources/archives/satcomp2026.uri",
+    "bytes": 26799,
+    "sha256": "d4e5d76862bc5e8825e495a4f6b05163fc2ab4d706de0a3fd3defacf7808b995"
+  },
+  {
+    "url": "https://www.cs.ubc.ca/~hoos/SATLIB/Benchmarks/SAT/CBS/CBS_k3_n100_m403_b90.tar.gz",
+    "path": "sources/archives/satlib-CBS_k3_n100_m403_b90.tar.gz",
+    "bytes": 1828556,
+    "sha256": "535e7e5d7eb9c6833b5d006716fa3994dbc6f41e52994682ff751f707639d988"
+  },
+  {
+    "url": "https://benchmark-database.de/?track=main_2026",
+    "path": "sources/archives/gbd2026.html",
+    "bytes": 258847,
+    "sha256": "fa4c0731d536af162bb8355ce883384f0923c7ff9e723cc3f362159f8fff512a"
+  }
+]

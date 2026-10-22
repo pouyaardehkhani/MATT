@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "instances": 11520,
+  "groups": 3840,
+  "scenarios": 32,
+  "checks": {
+    "scalar_full_enumeration_files": 32,
+    "minisat22_sat_and_backbone_checks": 5760,
+    "exhaustive_truth_table_checks": 11520,
+    "exact_bijection_checks": 3840,
+    "rc2_glucose3_optimum_checks": 5760,
+    "suboptimal_trap_certificates": 240
+  },
+  "all_inputs_well_formed": true,
+  "all_files_distinct_ignoring_clause_literal_order": true,
+  "exhaustive_nvars_limit": 18,
+  "pysat_enabled": true,
+  "pysat_version": "1.9.dev15",
+  "manifest_sha256": "effa80471a0c27757e4adfb29c46c59a14e02933d5f30e6683a02012cbacf725",
+  "source_sha256": {
+    "generate.py": "5436ecb8909385ab08b9ea94154c3db19d7e30be7b3a696928e2771525177774",
+    "verify.py": "c58260ee515968434737153190f8d82769a0ae204364efcbab27d20bc0676306"
+  },
+  "elapsed_seconds": 10.356,
+  "baseline_methods_run": 0,
+  "limitations": "Bounded compact formulas; no claim of baseline failure or publication-scale hardness. Truth-table labels are computational certificates, not DRAT/LRAT/VeriPB proof files."
+}

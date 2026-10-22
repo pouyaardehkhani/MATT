@@ -1,0 +1,486 @@
+{
+  "version": "2.0.0",
+  "master_seed": 20261016,
+  "scenarios": [
+    {
+      "id": "rare_escape",
+      "family": "cnf",
+      "title": "Rare countermodel closed by a trigger",
+      "scenario": "A selector s normally agrees with an output x; the opposite branch requires every trigger bit to be true.",
+      "intervention": "Add one clause forbidding the all-true trigger.",
+      "rationale": "Model sampling can confuse a highly biased literal with a backbone. Closing the escape makes it genuinely forced.",
+      "equation": "(s OR t_i) for all i, x <-> s; intervention: OR_i NOT t_i.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "implication_reversal",
+      "family": "cnf",
+      "title": "Reconvergent implication orientation",
+      "scenario": "A connected equality network carries a hidden anchor through many paths.",
+      "intervention": "Reverse the anchor polarity while keeping the network.",
+      "rationale": "A cached or partially propagated backbone must change sign throughout the component.",
+      "equation": "x_i <-> x_j on a connected graph; (a OR q) AND (a OR NOT q), then a becomes NOT a.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "parity_cycle",
+      "family": "cnf",
+      "title": "One parity sign changes consistency",
+      "scenario": "Pairwise XOR relations close a cycle whose XOR sum is zero.",
+      "intervention": "Flip the parity on the closing edge.",
+      "rationale": "Local consistency of individual clauses does not establish global satisfiability.",
+      "equation": "XOR_i (x_i XOR x_(i+1)) = 0; one RHS flip makes it 1.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "parity_pin",
+      "family": "cnf",
+      "title": "Free parity mode becomes a full backbone",
+      "scenario": "A signed equality tree has two complementary solutions.",
+      "intervention": "Pin one variable with a two-clause anchor.",
+      "rationale": "A single semantic intervention forces an entire correlated component.",
+      "equation": "x_i XOR x_parent(i) = b_i; add (x_1 OR q) AND (x_1 OR NOT q).",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "cardinality_boundary",
+      "family": "cnf",
+      "title": "Overlapping cardinality contradiction",
+      "scenario": "A resource pool requires exactly k active items.",
+      "intervention": "Add an at-least-(k+1) requirement on the same pool.",
+      "rationale": "Different cardinality constraints look individually feasible but jointly contradict one another.",
+      "equation": "sum x_i = k versus sum x_i = k AND sum x_i >= k+1.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "unique_witness_block",
+      "family": "cnf",
+      "title": "Blocking a globally unique witness",
+      "scenario": "A signed connected network plus an anchor has exactly one core assignment.",
+      "intervention": "Add one clause falsified by that complete core assignment.",
+      "rationale": "A long added clause can eliminate the last model despite leaving every variable well formed.",
+      "equation": "F has unique core model m; F AND (OR_i NOT m_i) has none.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "broken_exchange",
+      "family": "cnf",
+      "title": "Nearly exchangeable choices",
+      "scenario": "Exactly one interchangeable option is chosen.",
+      "intervention": "Forbid one option using a relation to a fresh signal rather than changing the format.",
+      "rationale": "A symmetry assumption from the control becomes invalid; one variable enters the backbone.",
+      "equation": "sum x_i = 1; add (NOT x_j OR z) AND (NOT x_j OR NOT z).",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "complement_orientation",
+      "family": "cnf",
+      "title": "Signed symmetry loses one orientation",
+      "scenario": "Variables in two classes are equal within a class and opposite across classes.",
+      "intervention": "Add a disjunction containing literals true in only one orientation.",
+      "rationale": "Polarity-aware symmetry and backbone logic must distinguish the two complementary models.",
+      "equation": "x_i XOR x_j = phase_i XOR phase_j; add a clause selecting one phase.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "conditional_exchange",
+      "family": "cnf",
+      "title": "Conditional symmetry is not global symmetry",
+      "scenario": "Each choice x_i has its own indicator y_i; options initially exchange together.",
+      "intervention": "Add a cross-condition coupling one option to a different indicator.",
+      "rationale": "Exchanging only the option variables or reusing a former global symmetry can delete valid solutions.",
+      "equation": "sum x_i=1, y_i <-> x_i; add NOT x_a OR y_b for a != b.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "bipartite_frustration",
+      "family": "cnf",
+      "title": "A graph becomes non-bipartite",
+      "scenario": "Two-color constraints lie on a connected bipartite graph.",
+      "intervention": "Add an edge within one color class.",
+      "rationale": "One local edge creates a global odd-cycle obstruction.",
+      "equation": "For each edge enforce x_u XOR x_v=1; the extra edge closes an odd cycle.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "hall_deficiency",
+      "family": "cnf",
+      "title": "Hidden resource bottleneck",
+      "scenario": "A bipartite assignment graph admits a perfect matching.",
+      "intervention": "Restrict two agents to the same single resource.",
+      "rationale": "Per-agent availability is nonempty but the joint resource allocation is impossible.",
+      "equation": "Exactly one edge per agent, at most one per resource; |N({a,b})|=1<2.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "color_obstruction",
+      "family": "cnf",
+      "title": "Color symmetry with a local obstruction",
+      "scenario": "A triangle and an extra vertex admit three colors.",
+      "intervention": "Connect the extra vertex to every triangle vertex.",
+      "rationale": "The same color permutations remain available, but the extra clique makes the formula UNSAT.",
+      "equation": "3-color K3 plus v; intervention completes K4, which needs four colors.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "reconvergent_circuit",
+      "family": "cnf",
+      "title": "Circuit output phase intervention",
+      "scenario": "A random acyclic AND/OR/XOR circuit has a planted, fixed input vector and reconvergent paths.",
+      "intervention": "Change the required output from its implied value to its opposite.",
+      "rationale": "Reasoning from local fan-in or an incomplete circuit abstraction can miss the unique output consequence.",
+      "equation": "Inputs fixed by two-clause anchors; Tseitin gate equivalences; assert output b versus NOT b.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "component_bridge",
+      "family": "cnf",
+      "title": "A bridge correlates formerly independent components",
+      "scenario": "Two signed connected components each have two orientations.",
+      "intervention": "Add one parity bridge between the components.",
+      "rationale": "Component decomposition must be updated after the intervention; model count halves without necessarily creating a backbone.",
+      "equation": "F(X) AND G(Y), then AND (x_1 XOR y_1=b).",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "complete_conflict",
+      "family": "cnf",
+      "title": "Last missing conflict clause",
+      "scenario": "All assignments of a small variable block except one are excluded by full-width clauses.",
+      "intervention": "Insert the single omitted conflict clause.",
+      "rationale": "The last globally surviving witness disappears although there is no empty clause or direct contradictory-unit pair.",
+      "equation": "All 2^k full-width clauses except C_m versus all 2^k clauses.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "conditional_threshold",
+      "family": "cnf",
+      "title": "Threshold trigger forces a selector",
+      "scenario": "When selector s is false, a pool must have exactly k selected bits; when true the pool is unrestricted.",
+      "intervention": "Raise the guarded lower threshold by one.",
+      "rationale": "Only the trigger branch becomes impossible, creating a selector backbone without making the whole instance UNSAT.",
+      "equation": "(s OR CNF(sum x_i<=k)) AND (s OR CNF(sum x_i>=k)); raise lower bound to k+1.",
+      "targets": [
+        "A",
+        "D"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "ferromagnetic_barrier",
+      "family": "wcnf",
+      "title": "Suboptimal one-flip basin with a strict core",
+      "scenario": "Coupled Boolean choices have a cheap all-true basin and an expensive all-false basin.",
+      "intervention": "Increase equality-coupling weight above the total unary preference weight.",
+      "rationale": "A one-flip improving search can remain at a proven suboptimal feasible assignment; the objective is ordinary integer MaxSAT.",
+      "equation": "Soft J*[x_i=x_j], positive units total P, negative anchor B<P. All-true costs B; all-false costs P; J>P+B blocks every core-variable flip.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "feasible_exchange_barrier",
+      "family": "wcnf",
+      "title": "Disconnected feasible orientations",
+      "scenario": "A connected hard equality component has two feasible assignments with unequal costs.",
+      "intervention": "Turn soft coupling constraints into hard equalities.",
+      "rationale": "Changing basin requires temporary hard-constraint violations; a feasible incumbent can be suboptimal.",
+      "equation": "Hard x_i=x_j; soft positive units total P and negative anchor B<P.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "weighted_majority",
+      "family": "wcnf",
+      "title": "Clause majority disagrees with weight majority",
+      "scenario": "Many linked positive proxy preferences compete with one negative preference.",
+      "intervention": "Move the negative weight from just below to just above their total.",
+      "rationale": "Choosing the most numerous satisfied clauses gives the wrong weighted optimum after the intervention.",
+      "equation": "Hard y_i=x; soft (y_i,1), (NOT x,q); optimum min(m,q), winning orientation reverses at q=m.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "vertex_cover_star",
+      "family": "wcnf",
+      "title": "Coordinated star-cover exchange",
+      "scenario": "A star graph can be covered by its center or all leaves, with variable selection costs.",
+      "intervention": "Move center cost across the total leaf cost.",
+      "rationale": "Greedy single-vertex deletion cannot exchange the two covers while staying feasible.",
+      "equation": "Hard (c OR l_i); soft NOT c cost W, NOT l_i cost w_i; optimum min(W,sum_i w_i).",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "weighted_parity_frustration",
+      "family": "wcnf",
+      "title": "Frustrated weighted cycle",
+      "scenario": "Weighted parity preferences form a consistent cycle.",
+      "intervention": "Flip the closing parity relation.",
+      "rationale": "The inconsistent cycle must pay at least one edge weight; sacrificing the wrong edge is a measurable cost gap.",
+      "equation": "Soft XOR edge relations, same weight for their two CNF clauses; odd parity inconsistency costs the minimum edge weight.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "overlapping_cores",
+      "family": "wcnf",
+      "title": "Shared exclusion cores",
+      "scenario": "Positive vertex preferences compete under pairwise exclusion constraints.",
+      "intervention": "Add overlapping exclusions around a high-degree vertex.",
+      "rationale": "Counting overlapping conflicts independently can overestimate a lower bound or choose poor relaxations.",
+      "equation": "Hard NOT x_u OR NOT x_v; soft (x_v,w_v): optimum = total weights minus maximum-weight independent set.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "weighted_hitting_set",
+      "family": "wcnf",
+      "title": "Shared repair covers many demands",
+      "scenario": "Each demand is a disjunction of possible repairs, each with an activation cost.",
+      "intervention": "Add one shared repair to several demands.",
+      "rationale": "Repairing each demand independently misses savings from one shared activation.",
+      "equation": "Hard OR_{v in S_j} x_v; soft (NOT x_v,w_v): minimum-weight hitting set.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "capacity_weight_swap",
+      "family": "wcnf",
+      "title": "Capacity threshold and close weights",
+      "scenario": "At most k rewards can be selected.",
+      "intervention": "Raise a formerly excluded item's weight above a selected item's weight.",
+      "rationale": "A stale ranking or an overaggressive weight bucket keeps a feasible but suboptimal solution.",
+      "equation": "Hard sum x_i<=k; soft (x_i,w_i); optimum is sum of the n-k smallest weights.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "exact_cardinality_exchange",
+      "family": "wcnf",
+      "title": "No feasible single-bit move",
+      "scenario": "Exactly k choices must remain active, with weighted rewards.",
+      "intervention": "Add weak pairwise agreement preferences to change the best exchange.",
+      "rationale": "Every one-bit change violates feasibility; improvement requires a coordinated two-bit exchange or temporary infeasibility.",
+      "equation": "Hard sum x_i=k; soft unary rewards plus equality preferences on selected random pairs.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "residual_weight_reversal",
+      "family": "wcnf",
+      "title": "Small residual after competing preferences",
+      "scenario": "Opposite soft preferences on a hard-linked component mostly cancel.",
+      "intervention": "Change one weight by a small amount across the residual balance point.",
+      "rationale": "Dropping a residual or forgetting a constant cost can reverse the optimum or misreport its value.",
+      "equation": "Hard y_i=x; soft (x,a),(NOT x,b),(y_i,c_i); compare b with a+sum c_i.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "hierarchical_tradeoff",
+      "family": "wcnf",
+      "title": "One high priority trades against many lower priorities",
+      "scenario": "Exactly one of two assignment bundles is feasible.",
+      "intervention": "Change the high-level preference across the total lower-level loss.",
+      "rationale": "Treating finite weights as absolute priorities changes the actual weighted problem.",
+      "equation": "Hard bundle equivalences/oppositions; soft lower rewards sum L versus a high preference of weight L-1 or L+1.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "cost_component_bridge",
+      "family": "wcnf",
+      "title": "Coupling breaks objective additivity",
+      "scenario": "Two independently optimized bundles prefer opposite orientations.",
+      "intervention": "Add one hard equality across the bundles.",
+      "rationale": "The sum of old component optima is no longer achievable after coupling.",
+      "equation": "min f(X)+min g(Y) becomes min_{x_1=y_1}(f(X)+g(Y)).",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "last_soft_conflict",
+      "family": "wcnf",
+      "title": "A complete weighted conflict cover",
+      "scenario": "Full-width soft clauses exclude every core assignment except one.",
+      "intervention": "Insert the omitted soft clause with a positive weight.",
+      "rationale": "The optimum changes from zero to the least clause weight, so a stale zero-cost model is invalid.",
+      "equation": "Each full-width clause is false at exactly one assignment; after all 2^k are present OPT=min_C w_C.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "spin_glass_intervention",
+      "family": "wcnf",
+      "title": "Competing signed pair interactions",
+      "scenario": "A connected graph mixes weighted equality, inequality, and unary preferences.",
+      "intervention": "Flip the preferred relation on one influential edge.",
+      "rationale": "A local sign change can rearrange the global optimum; local edge satisfaction alone is insufficient.",
+      "equation": "Minimize sum_e w_e*[x_u XOR x_v != b_e] plus unary penalties.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "conjunction_trigger",
+      "family": "wcnf",
+      "title": "A conjunction trigger disables the cheap branch",
+      "scenario": "A selector controls two feasible cost basins and is linked to a multi-bit trigger.",
+      "intervention": "Require all trigger bits, thereby forcing the more expensive selector orientation.",
+      "rationale": "A semantic trigger changes the feasible optimum rather than the input syntax; cached incumbents must be rechecked.",
+      "equation": "t_1 AND ... AND t_k -> s; s=false costs B, s=true costs P>B; add hard t_i=true.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    },
+    {
+      "id": "hard_priority_lure",
+      "family": "wcnf",
+      "title": "Very attractive infeasible assignment",
+      "scenario": "A hard capacity constraint rules out selecting every profitable item.",
+      "intervention": "Add a hard exclusion between two high-reward items.",
+      "rationale": "Soft improvement must never be reported as a feasible solution if it violates even one hard constraint.",
+      "equation": "Hard sum x_i<=k plus NOT x_a OR NOT x_b; soft (x_i,w_i). All weights remain small and positive.",
+      "targets": [
+        "B",
+        "C"
+      ],
+      "groups": 120,
+      "examples": 360
+    }
+  ]
+}
