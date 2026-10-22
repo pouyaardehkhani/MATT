@@ -24,7 +24,7 @@ The formulas and the derived views are distributed as one archive:
 | | |
 |---|---|
 | File | `MATT-v3-data.zip` |
-| Download | **[Google Drive — link to be added](https://drive.google.com/file/d/1g6YCHDQ0jTEUBYbM-lj7f7tbqlV3KaFa/view?usp=sharing)** |
+| Download | **[Google Drive](https://drive.google.com/file/d/1g6YCHDQ0jTEUBYbM-lj7f7tbqlV3KaFa/view?usp=sharing)** |
 | SHA-256 | `<SHA256_TO_BE_ADDED>` |
 | Contents | `instances/` (8,880 CNF + 8,480 WCNF files), `views/` (task and label-confidence subsets), `releases/v3-base-audit/manifest.jsonl` |
 
