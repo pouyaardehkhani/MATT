@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------
-Scope: this license covers the MATT code, metadata and the formulas constructed
-for MATT. It does not relicense third-party material: the vendored CNFgen 0.9.6
-under vendor/ remains under its own license (GPL-3.0, see
-vendor/cnfgen-0.9.6.dist-info/licenses/LICENSE), and formulas imported from
-public collections (SATLIB, SAT Competition, MaxSAT Evaluation, the MaxSAT
-regression suite, the hidden-optimum Max-2-SAT benchmarks) keep their original
-terms, as recorded in sources/.
