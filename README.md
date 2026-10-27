@@ -159,7 +159,7 @@ All members of a source/duplicate lineage stay together in the supplied split. T
 - [SAT Competition official archive](https://zenodo.org/records/15125952), [SAT Competition 2026](https://satcompetition.github.io/2026/), and [SATLIB](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html).
 - [Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness](https://github.com/johannaSommer/generalization-neural-co-solvers), ICLR 2022. This source provides a framework rather than a fixed universal corpus; MATT adapts generation and label-preserving perturbation ideas without claiming neural attack success or running downloaded models.
 
-Third-party originals and code retain their source terms. No blanket license is assigned to the combined collection; the vendored CNFgen keeps its own license (`vendor/cnfgen-0.9.6.dist-info/licenses/`). Source archives, original identifiers, hashes, generator versions, and any available certificate claims are retained for attribution and future publication review.
+**License: MIT** ([LICENSE](LICENSE)) for the MATT code, metadata and constructed formulas. Third-party originals and code retain their source terms: the vendored CNFgen keeps its GPL-3.0 license (`vendor/cnfgen-0.9.6.dist-info/licenses/`), and imported public formulas keep the terms of their collections. Source archives, original identifiers, hashes, generator versions, and any available certificate claims are retained for attribution and future publication review.
 
 ## Citation
 
